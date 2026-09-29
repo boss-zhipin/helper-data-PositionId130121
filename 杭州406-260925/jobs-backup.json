@@ -1,0 +1,942 @@
+[
+  {
+    "job": {
+      "id": "0e7ce1bb41a2b1e80nN83dq9EFJT",
+      "title": "模型评测",
+      "company": "万声通讯实业有限公司",
+      "companyId": "916b7c05b64eca0c1nV90tq9GA~~",
+      "location": "杭州·余杭区·仓前",
+      "salary": "11-22K",
+      "tags": [
+        "1-3年",
+        "本科"
+      ],
+      "statusIconAlt": ""
+    },
+    "searchCity": "杭州",
+    "searchPositionId": "130121",
+    "salaryId": "406",
+    "searchDistrictId": "101210100",
+    "_configName": "杭州406-260925",
+    "_keyword": "数据标注_AI训练师",
+    "queryIndex": 0,
+    "salaryBelowMin": true,
+    "updatedAt": 1790404937181,
+    "organizeStatus": "薪资下限"
+  },
+  {
+    "job": {
+      "id": "11b198a4723758ac0nJz09u_FlFS",
+      "title": "AI 应用开发专家",
+      "company": "某中型新能源大数据解决方案公司",
+      "companyId": "",
+      "location": "杭州",
+      "salary": "25-50K",
+      "tags": [
+        "5-10年",
+        "本科"
+      ],
+      "statusIconAlt": "猎头职位"
+    },
+    "searchCity": "杭州",
+    "searchPositionId": "130121",
+    "salaryId": "406",
+    "searchDistrictId": "101210100",
+    "_configName": "杭州406-260925",
+    "_keyword": "数据标注_AI训练师",
+    "queryIndex": 0,
+    "salaryBelowMin": true,
+    "updatedAt": 1790404938649,
+    "organizeStatus": "外包招聘"
+  },
+  {
+    "job": {
+      "id": "190fc7777e8934ee0nFy2N66FVBR",
+      "title": "晓天衡宇-标注评测-综合管理（coding方向）",
+      "company": "乌鸫科技",
+      "companyId": "99d5004b33c2f2150XF43t28EQ~~",
+      "location": "杭州·余杭区·仓前",
+      "salary": "35-55K·16薪",
+      "tags": [
+        "10年以上",
+        "硕士"
+      ],
+      "statusIconAlt": ""
+    },
+    "searchCity": "杭州",
+    "searchPositionId": "130121",
+    "salaryId": "407",
+    "searchDistrictId": "101210100",
+    "_configName": "杭州406-260925",
+    "_keyword": "数据标注_AI训练师",
+    "queryIndex": 0,
+    "salaryBelowMin": true,
+    "updatedAt": 1790405057059,
+    "organizeStatus": "薪资下限"
+  },
+  {
+    "job": {
+      "id": "197af6101bd39d8d0nB-3dm0F1FX",
+      "title": "晓天衡宇-AI标注与评测管理岗",
+      "company": "乌鸫科技",
+      "companyId": "99d5004b33c2f2150XF43t28EQ~~",
+      "location": "杭州·余杭区·仓前",
+      "salary": "30-55K·16薪",
+      "tags": [
+        "10年以上",
+        "硕士"
+      ],
+      "statusIconAlt": ""
+    },
+    "searchCity": "杭州",
+    "searchPositionId": "130121",
+    "salaryId": "407",
+    "searchDistrictId": "101210100",
+    "_configName": "杭州406-260925",
+    "_keyword": "数据标注_AI训练师",
+    "queryIndex": 0,
+    "salaryBelowMin": true,
+    "updatedAt": 1790405127063,
+    "organizeStatus": "薪资下限"
+  },
+  {
+    "job": {
+      "id": "1c3cd8bd505cbb3c0nJ82tW1ElNS",
+      "title": "阿里控股-视频生成模型编导-北京",
+      "company": "阿里巴巴集团",
+      "companyId": "5d627415a46b4a750nJ9",
+      "location": "杭州",
+      "salary": "30-50K",
+      "tags": [
+        "3-5年",
+        "本科"
+      ],
+      "statusIconAlt": ""
+    },
+    "searchCity": "杭州",
+    "searchPositionId": "130121",
+    "salaryId": "406",
+    "searchDistrictId": "101210100",
+    "_configName": "杭州406-260925",
+    "_keyword": "数据标注_AI训练师",
+    "queryIndex": 0,
+    "salaryBelowMin": true,
+    "updatedAt": 1790404938706,
+    "organizeStatus": "HR离线30d"
+  },
+  {
+    "job": {
+      "id": "23eb779ac4c6ae9d0nN90t21GFNU",
+      "title": "Code/Agentic 标注评测师",
+      "company": "深圳易宝软件有限公司",
+      "companyId": "bea9e1b7cb3dff711nJ42Nq1FVs~",
+      "location": "杭州·余杭区·仓前",
+      "salary": "20-40K",
+      "tags": [
+        "1-3年",
+        "硕士"
+      ],
+      "statusIconAlt": ""
+    },
+    "searchCity": "杭州",
+    "searchPositionId": "130121",
+    "salaryId": "406",
+    "searchDistrictId": "101210100",
+    "_configName": "杭州406-260925",
+    "_keyword": "数据标注_AI训练师",
+    "queryIndex": 0,
+    "salaryBelowMin": true,
+    "updatedAt": 1790404938782,
+    "organizeStatus": "薪资下限"
+  },
+  {
+    "job": {
+      "id": "3390f3e02aab18630nF-3tS5GFNZ",
+      "title": "千问-大模型自动化评测集建设运营-杭/北",
+      "company": "阿里巴巴千问事业部",
+      "companyId": "19b7e3949cb97add03F42Nw~",
+      "location": "杭州·余杭区·仓前",
+      "salary": "30-60K·16薪",
+      "tags": [
+        "5-10年",
+        "本科"
+      ],
+      "statusIconAlt": ""
+    },
+    "searchCity": "杭州",
+    "searchPositionId": "130121",
+    "salaryId": "407",
+    "searchDistrictId": "101210100",
+    "_configName": "杭州406-260925",
+    "_keyword": "数据标注_AI训练师",
+    "queryIndex": 0,
+    "salaryBelowMin": true,
+    "updatedAt": 1790405107057,
+    "organizeStatus": "规模企业"
+  },
+  {
+    "job": {
+      "id": "34c3a0256c1c0dbc0nN83du4FVVR",
+      "title": "评测项目经理（文本/多模态）",
+      "company": "人瑞网络科技",
+      "companyId": "3ed4c6834985d7501H17396-GFE~",
+      "location": "杭州·余杭区·仓前",
+      "salary": "13-25K",
+      "tags": [
+        "3-5年",
+        "本科"
+      ],
+      "statusIconAlt": ""
+    },
+    "searchCity": "杭州",
+    "searchPositionId": "130121",
+    "salaryId": "406",
+    "searchDistrictId": "101210100",
+    "_configName": "杭州406-260925",
+    "_keyword": "数据标注_AI训练师",
+    "queryIndex": 0,
+    "salaryBelowMin": true,
+    "updatedAt": 1790404939056,
+    "organizeStatus": "招呼未回"
+  },
+  {
+    "job": {
+      "id": "4291fbc4373bf4dd0nB509W8EFNW",
+      "title": "文本数据清洗工程师",
+      "company": "了不起科技",
+      "companyId": "f5fab9c536ffbd4203Z-3dy0EVE~",
+      "location": "杭州·滨江区·长河",
+      "salary": "24-40K·13薪",
+      "tags": [
+        "5-10年",
+        "本科"
+      ],
+      "statusIconAlt": ""
+    },
+    "searchCity": "杭州",
+    "searchPositionId": "130121",
+    "salaryId": "406",
+    "searchDistrictId": "101210100",
+    "_configName": "杭州406-260925",
+    "_keyword": "数据标注_AI训练师",
+    "queryIndex": 0,
+    "salaryBelowMin": true,
+    "updatedAt": 1790404939085,
+    "organizeStatus": "薪资下限"
+  },
+  {
+    "job": {
+      "id": "499572c2943abcfb0nJ-3N-6FltS",
+      "title": "数据运营专家",
+      "company": "某大型电子商务公司",
+      "companyId": "",
+      "location": "杭州",
+      "salary": "35-65K·16薪",
+      "tags": [
+        "5-10年",
+        "本科"
+      ],
+      "statusIconAlt": "猎头职位"
+    },
+    "searchCity": "杭州",
+    "searchPositionId": "130121",
+    "salaryId": "407",
+    "searchDistrictId": "101210100",
+    "_configName": "杭州406-260925",
+    "_keyword": "数据标注_AI训练师",
+    "queryIndex": 0,
+    "salaryBelowMin": true,
+    "updatedAt": 1790404977094,
+    "organizeStatus": "外包招聘"
+  },
+  {
+    "job": {
+      "id": "4b512e5dd5de87ab0nJ509u0EVFS",
+      "title": "大模型标注评测工程师-Office/电商",
+      "company": "晓天衡宇",
+      "companyId": "e882364479ab6a2f03N_2NW6ElI~",
+      "location": "杭州·余杭区·仓前",
+      "salary": "30-60K",
+      "tags": [
+        "3-5年",
+        "本科"
+      ],
+      "statusIconAlt": ""
+    },
+    "searchCity": "杭州",
+    "searchPositionId": "130121",
+    "salaryId": "407",
+    "searchDistrictId": "101210100",
+    "_configName": "杭州406-260925",
+    "_keyword": "数据标注_AI训练师",
+    "queryIndex": 0,
+    "salaryBelowMin": true,
+    "updatedAt": 1790405117070,
+    "organizeStatus": "薪资下限"
+  },
+  {
+    "job": {
+      "id": "4fa7a8f4c576e6e30nN92tq1FlBX",
+      "title": "AI评测项目经理（文本 / 多模态）- 杭州",
+      "company": "杭州某大型互联网电商平台上市公司",
+      "companyId": "",
+      "location": "杭州",
+      "salary": "20-40K·13薪",
+      "tags": [
+        "经验不限",
+        "本科"
+      ],
+      "statusIconAlt": "猎头职位"
+    },
+    "searchCity": "杭州",
+    "searchPositionId": "130121",
+    "salaryId": "406",
+    "searchDistrictId": "101210100",
+    "_configName": "杭州406-260925",
+    "_keyword": "数据标注_AI训练师",
+    "queryIndex": 0,
+    "salaryBelowMin": true,
+    "updatedAt": 1790404939113,
+    "organizeStatus": "外包招聘"
+  },
+  {
+    "job": {
+      "id": "5f70c2c8d04b44f40nN52dy7FVRZ",
+      "title": "数据标注项目总监",
+      "company": "核数聚",
+      "companyId": "ed8ee2bfba13562803Vy39u-FQ~~",
+      "location": "杭州·滨江区·长河",
+      "salary": "30-60K",
+      "tags": [
+        "5-10年",
+        "本科"
+      ],
+      "statusIconAlt": ""
+    },
+    "searchCity": "杭州",
+    "searchPositionId": "130121",
+    "salaryId": "407",
+    "searchDistrictId": "101210100",
+    "_configName": "杭州406-260925",
+    "_keyword": "数据标注_AI训练师",
+    "queryIndex": 0,
+    "salaryBelowMin": true,
+    "updatedAt": 1790404987091,
+    "organizeStatus": "行业不符"
+  },
+  {
+    "job": {
+      "id": "63c356845c78814b0nJ52dS6F1JV",
+      "title": "具身智能数据采集运营经理 (MJ000050)",
+      "company": "NEURA",
+      "companyId": "72a39ee737c7803103B_3di8ElI~",
+      "location": "杭州·萧山区·新街",
+      "salary": "20-40K·16薪",
+      "tags": [
+        "5-10年",
+        "本科"
+      ],
+      "statusIconAlt": ""
+    },
+    "searchCity": "杭州",
+    "searchPositionId": "130121",
+    "salaryId": "406",
+    "searchDistrictId": "101210100",
+    "_configName": "杭州406-260925",
+    "_keyword": "数据标注_AI训练师",
+    "queryIndex": 0,
+    "salaryBelowMin": true,
+    "updatedAt": 1790404939133,
+    "organizeStatus": "行业不符"
+  },
+  {
+    "job": {
+      "id": "6596bc10327439140nN-2d-_EFNR",
+      "title": "AI视频评测-影视/音频-成都/西安/杭州/北京",
+      "company": "位来小猎",
+      "companyId": "e99294e468e3737d3nZ409W5EA~~",
+      "location": "杭州·余杭区·仓前",
+      "salary": "12-21K",
+      "tags": [
+        "经验不限",
+        "本科"
+      ],
+      "statusIconAlt": ""
+    },
+    "searchCity": "杭州",
+    "searchPositionId": "130121",
+    "salaryId": "406",
+    "searchDistrictId": "101210100",
+    "_configName": "杭州406-260925",
+    "_keyword": "数据标注_AI训练师",
+    "queryIndex": 0,
+    "salaryBelowMin": true,
+    "updatedAt": 1790404939144,
+    "organizeStatus": "薪资下限"
+  },
+  {
+    "job": {
+      "id": "6a0b95c3d47f010f0nF-3tS4FFNZ",
+      "title": "千问-大模型产品Agentic评测运营-杭/北",
+      "company": "阿里巴巴千问事业部",
+      "companyId": "19b7e3949cb97add03F42Nw~",
+      "location": "杭州·余杭区·仓前",
+      "salary": "30-60K·16薪",
+      "tags": [
+        "5-10年",
+        "本科"
+      ],
+      "statusIconAlt": ""
+    },
+    "searchCity": "杭州",
+    "searchPositionId": "130121",
+    "salaryId": "407",
+    "searchDistrictId": "101210100",
+    "_configName": "杭州406-260925",
+    "_keyword": "数据标注_AI训练师",
+    "queryIndex": 0,
+    "salaryBelowMin": true,
+    "updatedAt": 1790405027066,
+    "organizeStatus": "规模企业"
+  },
+  {
+    "job": {
+      "id": "6d0b66a9bc0670810nJ939W7F1JQ",
+      "title": "数据标准负责人",
+      "company": "杭州某大型电子商务公司",
+      "companyId": "",
+      "location": "杭州",
+      "salary": "25-40K",
+      "tags": [
+        "5-10年",
+        "本科"
+      ],
+      "statusIconAlt": "猎头职位"
+    },
+    "searchCity": "杭州",
+    "searchPositionId": "130121",
+    "salaryId": "406",
+    "searchDistrictId": "101210100",
+    "_configName": "杭州406-260925",
+    "_keyword": "数据标注_AI训练师",
+    "queryIndex": 0,
+    "salaryBelowMin": true,
+    "updatedAt": 1790404939155,
+    "organizeStatus": "外包招聘"
+  },
+  {
+    "job": {
+      "id": "6f2ec885310ba4930nJ_2Nu1EFZT",
+      "title": "专家网络运营（数据标注与数据研究方向）",
+      "company": "蚂蚁集团",
+      "companyId": "4685d74590e9bc881nV43N-4EVo~",
+      "location": "杭州·西湖区·西溪",
+      "salary": "30-60K·15薪",
+      "tags": [
+        "3-5年",
+        "本科"
+      ],
+      "statusIconAlt": ""
+    },
+    "searchCity": "杭州",
+    "searchPositionId": "130121",
+    "salaryId": "407",
+    "searchDistrictId": "101210100",
+    "_configName": "杭州406-260925",
+    "_keyword": "数据标注_AI训练师",
+    "queryIndex": 0,
+    "salaryBelowMin": true,
+    "updatedAt": 1790405037079,
+    "organizeStatus": "规模企业"
+  },
+  {
+    "job": {
+      "id": "761887b5574058c30nJ73t-8F1pS",
+      "title": "RL Data 工程师-Work",
+      "company": "阿里巴巴集团",
+      "companyId": "5d627415a46b4a750nJ9",
+      "location": "杭州·余杭区·仓前",
+      "salary": "28-55K·16薪",
+      "tags": [
+        "1-3年",
+        "本科"
+      ],
+      "statusIconAlt": ""
+    },
+    "searchCity": "杭州",
+    "searchPositionId": "130121",
+    "salaryId": "407",
+    "searchDistrictId": "101210100",
+    "_configName": "杭州406-260925",
+    "_keyword": "数据标注_AI训练师",
+    "queryIndex": 0,
+    "salaryBelowMin": true,
+    "updatedAt": 1790405007062,
+    "organizeStatus": "HR离线30d"
+  },
+  {
+    "job": {
+      "id": "7af9c1b3b505bdcf0nN83du_GFVR",
+      "title": "多模态项目经理",
+      "company": "上海勤穆网络科技",
+      "companyId": "9d55036584c2647d03d-2t67GFM~",
+      "location": "杭州·余杭区·仓前",
+      "salary": "15-25K",
+      "tags": [
+        "1-3年",
+        "本科"
+      ],
+      "statusIconAlt": ""
+    },
+    "searchCity": "杭州",
+    "searchPositionId": "130121",
+    "salaryId": "406",
+    "searchDistrictId": "101210100",
+    "_configName": "杭州406-260925",
+    "_keyword": "数据标注_AI训练师",
+    "queryIndex": 0,
+    "salaryBelowMin": true,
+    "updatedAt": 1790404939165,
+    "organizeStatus": "薪资下限"
+  },
+  {
+    "job": {
+      "id": "8a11a0c6a5a92a7f0nd93NW7EFJW",
+      "title": "数据标注高级主管（AI/ML）",
+      "company": "魔芯（杭州）科技",
+      "companyId": "62f2bd569871e9931nx509q8EVY~",
+      "location": "杭州·余杭区·仓前",
+      "salary": "30-60K",
+      "tags": [
+        "5-10年",
+        "本科"
+      ],
+      "statusIconAlt": ""
+    },
+    "searchCity": "杭州",
+    "searchPositionId": "130121",
+    "salaryId": "407",
+    "searchDistrictId": "101210100",
+    "_configName": "杭州406-260925",
+    "_keyword": "数据标注_AI训练师",
+    "queryIndex": 0,
+    "salaryBelowMin": true,
+    "updatedAt": 1790404997085,
+    "organizeStatus": "薪资下限"
+  },
+  {
+    "job": {
+      "id": "9ef3ca379fdf1d6c0nJz3tW0GFdV",
+      "title": "急招AI评测（文本/ rubric )",
+      "company": "卓越际联科技有限公司",
+      "companyId": "9a80334346a8f4661XR73Ny1F1Q~",
+      "location": "杭州·余杭区·仓前",
+      "salary": "11-22K",
+      "tags": [
+        "1-3年",
+        "本科"
+      ],
+      "statusIconAlt": ""
+    },
+    "searchCity": "杭州",
+    "searchPositionId": "130121",
+    "salaryId": "406",
+    "searchDistrictId": "101210100",
+    "_configName": "杭州406-260925",
+    "_keyword": "数据标注_AI训练师",
+    "queryIndex": 0,
+    "salaryBelowMin": true,
+    "updatedAt": 1790404939167,
+    "organizeStatus": "薪资下限"
+  },
+  {
+    "job": {
+      "id": "a8477750652267ec0nF82tW6GFtV",
+      "title": "数据评测专家",
+      "company": "某知名互联网公司",
+      "companyId": "",
+      "location": "杭州",
+      "salary": "25-40K",
+      "tags": [
+        "3-5年",
+        "本科"
+      ],
+      "statusIconAlt": "猎头职位"
+    },
+    "searchCity": "杭州",
+    "searchPositionId": "130121",
+    "salaryId": "406",
+    "searchDistrictId": "101210100",
+    "_configName": "杭州406-260925",
+    "_keyword": "数据标注_AI训练师",
+    "queryIndex": 0,
+    "salaryBelowMin": true,
+    "updatedAt": 1790404939167,
+    "organizeStatus": "学历不符"
+  },
+  {
+    "job": {
+      "id": "b1c3fb4e1e7e8cfb0nJz2NS5EVVZ",
+      "title": "千问-高级评测工程师-杭州/北京",
+      "company": "阿里巴巴千问事业部",
+      "companyId": "19b7e3949cb97add03F42Nw~",
+      "location": "杭州·余杭区·仓前",
+      "salary": "30-50K·16薪",
+      "tags": [
+        "5-10年",
+        "本科"
+      ],
+      "statusIconAlt": ""
+    },
+    "searchCity": "杭州",
+    "searchPositionId": "130121",
+    "salaryId": "406",
+    "searchDistrictId": "101210100",
+    "_configName": "杭州406-260925",
+    "_keyword": "数据标注_AI训练师",
+    "queryIndex": 0,
+    "salaryBelowMin": true,
+    "updatedAt": 1790404939168,
+    "organizeStatus": "规模企业"
+  },
+  {
+    "job": {
+      "id": "b52b7aefdf42fb170nZ72ti-FlFQ",
+      "title": "RLHF工程师",
+      "company": "某大兴制药企业",
+      "companyId": "",
+      "location": "杭州",
+      "salary": "30-60K",
+      "tags": [
+        "经验不限",
+        "硕士"
+      ],
+      "statusIconAlt": "猎头职位"
+    },
+    "searchCity": "杭州",
+    "searchPositionId": "130121",
+    "salaryId": "407",
+    "searchDistrictId": "101210100",
+    "_configName": "杭州406-260925",
+    "_keyword": "数据标注_AI训练师",
+    "queryIndex": 0,
+    "salaryBelowMin": true,
+    "updatedAt": 1790405087058,
+    "organizeStatus": "外包招聘"
+  },
+  {
+    "job": {
+      "id": "b562bc80314740cb0nJz3N60EVNX",
+      "title": "AI数据工程师",
+      "company": "北京某大型移动互联网公司",
+      "companyId": "",
+      "location": "杭州",
+      "salary": "30-50K",
+      "tags": [
+        "3-5年",
+        "本科"
+      ],
+      "statusIconAlt": "猎头职位"
+    },
+    "searchCity": "杭州",
+    "searchPositionId": "130121",
+    "salaryId": "406",
+    "searchDistrictId": "101210100",
+    "_configName": "杭州406-260925",
+    "_keyword": "数据标注_AI训练师",
+    "queryIndex": 0,
+    "salaryBelowMin": true,
+    "updatedAt": 1790404939169,
+    "organizeStatus": "外包招聘"
+  },
+  {
+    "job": {
+      "id": "bda80221a982c8640nFy2Nm9GFZR",
+      "title": "AI标注与评测综合管理岗（coding方向）",
+      "company": "晓天衡宇",
+      "companyId": "e882364479ab6a2f03N_2NW6ElI~",
+      "location": "杭州·余杭区·仓前",
+      "salary": "35-55K",
+      "tags": [
+        "5-10年",
+        "本科"
+      ],
+      "statusIconAlt": ""
+    },
+    "searchCity": "杭州",
+    "searchPositionId": "130121",
+    "salaryId": "407",
+    "searchDistrictId": "101210100",
+    "_configName": "杭州406-260925",
+    "_keyword": "数据标注_AI训练师",
+    "queryIndex": 0,
+    "salaryBelowMin": true,
+    "updatedAt": 1790405017077,
+    "organizeStatus": "薪资下限"
+  },
+  {
+    "job": {
+      "id": "bdad33e05aca47020nF93964EltZ",
+      "title": "视频标注pm（云雀）",
+      "company": "腾讯",
+      "companyId": "64bfe11d3d8b5b6e1XV629u4F1A~",
+      "location": "杭州·西湖区·西溪",
+      "salary": "15-24K·15薪",
+      "tags": [
+        "3-5年",
+        "本科"
+      ],
+      "statusIconAlt": ""
+    },
+    "searchCity": "杭州",
+    "searchPositionId": "130121",
+    "salaryId": "406",
+    "searchDistrictId": "101210100",
+    "_configName": "杭州406-260925",
+    "_keyword": "数据标注_AI训练师",
+    "queryIndex": 0,
+    "salaryBelowMin": true,
+    "updatedAt": 1790404939170,
+    "organizeStatus": "规模企业"
+  },
+  {
+    "job": {
+      "id": "c42ce5ea3fdc71380nF93d26EFBU",
+      "title": "Ai训练师",
+      "company": "精选贸易",
+      "companyId": "cd7e89f7b3ccbab30nN-29W5Ew~~",
+      "location": "杭州·滨江区·浦沿",
+      "salary": "25-40K",
+      "tags": [
+        "5-10年",
+        "本科"
+      ],
+      "statusIconAlt": ""
+    },
+    "searchCity": "杭州",
+    "searchPositionId": "130121",
+    "salaryId": "406",
+    "searchDistrictId": "101210100",
+    "_configName": "杭州406-260925",
+    "_keyword": "数据标注_AI训练师",
+    "queryIndex": 0,
+    "salaryBelowMin": true,
+    "updatedAt": 1790404939170,
+    "organizeStatus": "薪资下限"
+  },
+  {
+    "job": {
+      "id": "c5a6ba49cc7c08fe0nFz0tS-E1FU",
+      "title": "AI 工程化工程师",
+      "company": "瑞尔齿科",
+      "companyId": "c2fe4563a10ddfa01nd839q9",
+      "location": "杭州·上城区·望江",
+      "salary": "40-45K",
+      "tags": [
+        "5-10年",
+        "本科"
+      ],
+      "statusIconAlt": "",
+      "address": "杭州上城区高德置地广场A2幢2108-1",
+      "coordinates": "120.208667,30.243918",
+      "contactStatus": "继续沟通",
+      "isFriend": true,
+      "status": "招聘中",
+      "city": "杭州",
+      "experience": "5-10年",
+      "education": "本科",
+      "keywords": [],
+      "detailSecText": "岗位定位：\n负责 AI Runtime 及通用 AI 工程能力建设。搭建由不同模型、知识、规则和推理能力封装成稳定、可治理、可替换、可评估的系统服务。\n⼯作职责：\n1. 设计和建设统⼀的模型接⼊层，支持不同模型及服务供应商的接入、路由、切换与降级。\n2. 建设 AI Runtime 的服务注册、版本管理和执⾏机制，管理 Prompt、Schema、规则、知识与模型版本。\n3. 设计 Structured Output、Schema 校验、失败重试、结果否决和降级机制，确保 AI 输出可被业务系统安全消费。\n4. 建设 RAG 与知识检索能力，包括知识解析、切分、索引、召回、重排、引用和版本治理。\n5. 建立 AI Evaluation 体系，包括测试集、基准用例、自动回归、模型横向评估和效果变化分析。\n6. 建设模型调用的成本、性能、质量与失败率监控，持续优化 Token 消耗、响应时间和服务稳定性。\n7. 形成可追溯的 AI Output Package，保留输入证据、模型版本、规则版本、推理结果和渲染结果。\n8. 与 AI Agent 交付团队、患者分析与运营平台团队、多通道集成团队及诊所核心业务系统团队共同定义稳定的能力接口。\n任职要求：\n1. 具备扎实的软件工程能力，熟练使用 Python，并能独立完成服务端系统设计、编码、测试和部署。\n2. 熟悉主流大模型 API、推理服务及其调用机制，理解上下文、Token、Function Calling / ToolCalling 和 Structured Output。\n3. 有 RAG、向量检索、Embedding、文档解析或知识库系统的实际建设经验。\n4. 理解分布式服务中的超时、重试、幂等、熔断、限流、缓存和异步任务机制。\n5. 能将 Prompt、知识和规则作为软件资产进行集中化、版本化管理。\n6. 具备评测意识，能够通过测试集和指标判断模型或 Prompt 的变化是否真正改善系统效果。\n7. 能够阅读英文技术资料，并快速验证新的模型和 AI 工程方案。\n加分项：\n・ 有模型网关、LLM Runtime、推理平台或 AI 中台建设经验；\n・ 熟悉 Qdrant、Milvus、Elasticsearch 等检索或向量数据库；\n・ 有本地模型部署、推理加速或 GPU 资源调度经验；\n・ 熟悉医疗、客服或高审计要求业务场景；\n・ 有开源 AI 工程项目贡献或完整技术作品。",
+      "detailSecHtml": "岗位定位：<br>负责 AI Runtime 及通用 AI 工程能力建设。搭建由不同模型、知识、规则和推理能力封装成稳定、可治理、可替换、可评估的系统服务。<br>⼯作职责：<br>1. 设计和建设统⼀的模型接⼊层，支持不同模型及服务供应商的接入、路由、切换与降级。<br>2. 建设 AI Runtime 的服务注册、版本管理和执⾏机制，管理 Prompt、Schema、规则、知识与模型版本。<br>3. 设计 Structured Output、Schema 校验、失败重试、结果否决和降级机制，确保 AI 输出可被业务系统安全消费。<br>4. 建设 RAG 与知识检索能力，包括知识解析、切分、索引、召回、重排、引用和版本治理。<br>5. 建立 AI Evaluation 体系，包括测试集、基准用例、自动回归、模型横向评估和效果变化分析。<br>6. 建设模型调用的成本、性能、质量与失败率监控，持续优化 Token 消耗、响应时间和服务稳定性。<br>7. 形成可追溯的 AI Output Package，保留输入证据、模型版本、规则版本、推理结果和渲染结果。<br>8. 与 AI Agent 交付团队、患者分析与运营平台团队、多通道集成团队及诊所核心业务系统团队共同定义稳定的能力接口。<br>任职要求：<br>1. 具备扎实的软件工程能力，熟练使用 Python，并能独立完成服务端系统设计、编码、测试和部署。<br>2. 熟悉主流大模型 API、推理服务及其调用机制，理解上下文、Token、Function Calling / ToolCalling 和 Structured Output。<br>3. 有 RAG、向量检索、Embedding、文档解析或知识库系统的实际建设经验。<br>4. 理解分布式服务中的超时、重试、幂等、熔断、限流、缓存和异步任务机制。<br>5. 能将 Prompt、知识和规则作为软件资产进行集中化、版本化管理。<br>6. 具备评测意识，能够通过测试集和指标判断模型或 Prompt 的变化是否真正改善系统效果。<br>7. 能够阅读英文技术资料，并快速验证新的模型和 AI 工程方案。<br>加分项：<br>・ 有模型网关、LLM Runtime、推理平台或 AI 中台建设经验；<br>・ 熟悉 Qdrant、Milvus、Elasticsearch 等检索或向量数据库；<br>・ 有本地模型部署、推理加速或 GPU 资源调度经验；<br>・ 熟悉医疗、客服或高审计要求业务场景；<br>・ 有开源 AI 工程项目贡献或完整技术作品。",
+      "bosses": [
+        {
+          "name": "吕先生",
+          "title": "HR经理",
+          "updatedAt": "2026/9/28 09:33:46",
+          "avatar": "https://img.bosszhipin.com/boss/avatar/avatar_1.png?x-oss-process=image/resize,w_100,limit_0",
+          "activeTime": "3日内活跃"
+        }
+      ],
+      "pageUpdateTime": "2026-09-26",
+      "detailText": "岗位定位：\n负责 AI Runtime 及通用 AI 工程能力建设。搭建由不同模型、知识、规则和推理能力封装成稳定、可治理、可替换、可评估的系统服务。\n⼯作职责：\n1. 设计和建设统⼀的模型接⼊层，支持不同模型及服务供应商的接入、路由、切换与降级。\n2. 建设 AI Runtime 的服务注册、版本管理和执⾏机制，管理 Prompt、Schema、规则、知识与模型版本。\n3. 设计 Structured Output、Schema 校验、失败重试、结果否决和降级机制，确保 AI 输出可被业务系统安全消费。\n4. 建设 RAG 与知识检索能力，包括知识解析、切分、索引、召回、重排、引用和版本治理。\n5. 建立 AI Evaluation 体系，包括测试集、基准用例、自动回归、模型横向评估和效果变化分析。\n6. 建设模型调用的成本、性能、质量与失败率监控，持续优化 Token 消耗、响应时间和服务稳定性。\n7. 形成可追溯的 AI Output Package，保留输入证据、模型版本、规则版本、推理结果和渲染结果。\n8. 与 AI Agent 交付团队、患者分析与运营平台团队、多通道集成团队及诊所核心业务系统团队共同定义稳定的能力接口。\n任职要求：\n1. 具备扎实的软件工程能力，熟练使用 Python，并能独立完成服务端系统设计、编码、测试和部署。\n2. 熟悉主流大模型 API、推理服务及其调用机制，理解上下文、Token、Function Calling / ToolCalling 和 Structured Output。\n3. 有 RAG、向量检索、Embedding、文档解析或知识库系统的实际建设经验。\n4. 理解分布式服务中的超时、重试、幂等、熔断、限流、缓存和异步任务机制。\n5. 能将 Prompt、知识和规则作为软件资产进行集中化、版本化管理。\n6. 具备评测意识，能够通过测试集和指标判断模型或 Prompt 的变化是否真正改善系统效果。\n7. 能够阅读英文技术资料，并快速验证新的模型和 AI 工程方案。\n加分项：\n・ 有模型网关、LLM Runtime、推理平台或 AI 中台建设经验；\n・ 熟悉 Qdrant、Milvus、Elasticsearch 等检索或向量数据库；\n・ 有本地模型部署、推理加速或 GPU 资源调度经验；\n・ 熟悉医疗、客服或高审计要求业务场景；\n・ 有开源 AI 工程项目贡献或完整技术作品。"
+    },
+    "searchCity": "杭州",
+    "searchPositionId": "130121",
+    "salaryId": "406",
+    "searchDistrictId": "101210100",
+    "_configName": "杭州406-260925",
+    "_keyword": "数据标注_AI训练师",
+    "queryIndex": 0,
+    "salaryBelowMin": false,
+    "updatedAt": 1790559253865,
+    "organizeStatus": "招呼未回",
+    "company": {
+      "name": "瑞尔齿科",
+      "id": "c2fe4563a10ddfa01nd839q9",
+      "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20161110/a4442bc8cfbe610c6965f4bb59bb4ffedcda7e53ffb84065c2e0e42ae6b8f66d.jpg",
+      "stage": "已上市",
+      "scale": "1000-9999人",
+      "industry": "医疗健康",
+      "industryId": "100006",
+      "introduction": "瑞尔集团成立于1999年，目前拥有111家直营口腔医院和门诊，牙椅数近1300张，全职医生人数882人，业务遍及全国15个城市，旨在提供一站式、专业、高品质的口腔医疗服务，覆盖患者的全生命周期，并致力于通过遵循标准程序及实施5S规范举措以推广「瑞尔之道」，为每位患者带来健康、自信的微笑。过去十年，瑞尔集团已服务患者超过740万人次，积累了不断增长的忠实客户群（截至2021年9月30日止6个月，忠诚客户复诊率为47.6%，过往3个财年的客户满意度为97%），且仍在为持续促进和提升中国公众对口腔卫生和预防保健的认知而不懈努力。 \n       瑞尔集团旗下运营两大品牌：瑞尔齿科（中国领先的高端口腔医疗服务品牌）和瑞泰口腔（快速增长的中端口腔医疗服务品牌）。截至2021年9月30日，瑞尔齿科主要在一线城市（即北京、上海、深圳、广州等）运营51家口腔诊所，诊所通常位于城市或区域黄金商业地段和甲级写字楼。瑞泰口腔主要在一线及核心二线城市 （包括北京、上海、成都、重庆等）运营7家口腔医院及53家口腔诊所，通常位于人口密集的住宅区附近，使客户可轻松获得便利及专业的口腔护理服务。瑞泰旗下的口腔医院可提供更广泛的口腔治疗，例如进行全身麻醉及进行更复杂的口腔外科手术等。\n       自成立以来，我们始终在培养以客户为中心，以服务为本的文化，并将「诚信、专业、做好人」的主要价值观融入我们的日常运作，为每一名患者提供「适度治疗」。我们还致力于成为一个负责任的企业公民，并通过各种举措如瑞尔高尔夫慈善赛和瑞泰慈善校园之旅，实现商业向善。我们具有凝聚力的企业文化在确保商业模式的可扩展性及服务质量的一致性方面发挥重要作用，是我们成功的支柱。我们亦相信，这样的企业文化将使我们的牙医及员工能够有效地合作，为患者提供专业的服务，帮助我们与患者、牙医和商业伙伴之间巩固长期、互信的关系。\n\n使命：给每位患者带来健康、自信的微笑。\n愿景：成为世界领先的口腔医疗服务集团。\n价值观：诚信、专业、做好人！",
+      "businessInfo": {
+        "companyName": "北京瑞尔圣彬医疗科技有限公司",
+        "legalRepresentative": "邹其芳",
+        "establishDate": "1999-03-25",
+        "type": "有限责任公司（台港澳法人独资）",
+        "status": "存续",
+        "capital": "3300万美元"
+      }
+    }
+  },
+  {
+    "job": {
+      "id": "d2bbe9646196bf320nN72tS0EVJQ",
+      "title": "模型评测（WAM / 具⾝智能⽅向）",
+      "company": "杭州某小型人工智能公司",
+      "companyId": "",
+      "location": "杭州",
+      "salary": "45-75K·16薪",
+      "tags": [
+        "1-3年",
+        "博士"
+      ],
+      "statusIconAlt": "猎头职位"
+    },
+    "searchCity": "杭州",
+    "searchPositionId": "130121",
+    "salaryId": "407",
+    "searchDistrictId": "101210100",
+    "_configName": "杭州406-260925",
+    "_keyword": "数据标注_AI训练师",
+    "queryIndex": 0,
+    "salaryBelowMin": false,
+    "updatedAt": 1790405077058,
+    "organizeStatus": "外包招聘"
+  },
+  {
+    "job": {
+      "id": "d3804b3aea1938a70nJ90ty4FlBR",
+      "title": "研发总监 （ai 大模型训练）",
+      "company": "杭州某小型智能硬件/消费电子公司",
+      "companyId": "",
+      "location": "杭州",
+      "salary": "30-55K",
+      "tags": [
+        "3-5年",
+        "本科"
+      ],
+      "statusIconAlt": "猎头职位"
+    },
+    "searchCity": "杭州",
+    "searchPositionId": "130121",
+    "salaryId": "407",
+    "searchDistrictId": "101210100",
+    "_configName": "杭州406-260925",
+    "_keyword": "数据标注_AI训练师",
+    "queryIndex": 0,
+    "salaryBelowMin": true,
+    "updatedAt": 1790405047080,
+    "organizeStatus": "薪资下限"
+  },
+  {
+    "job": {
+      "id": "d7a52b81d0fa49970nN829y8GVFQ",
+      "title": "具身智能评测工程师岗位职责",
+      "company": "某大型互联网公司",
+      "companyId": "",
+      "location": "杭州",
+      "salary": "26-50K",
+      "tags": [
+        "经验不限",
+        "本科"
+      ],
+      "statusIconAlt": "代招职位"
+    },
+    "searchCity": "杭州",
+    "searchPositionId": "130121",
+    "salaryId": "406",
+    "searchDistrictId": "101210100",
+    "_configName": "杭州406-260925",
+    "_keyword": "数据标注_AI训练师",
+    "queryIndex": 0,
+    "salaryBelowMin": true,
+    "updatedAt": 1790404939172,
+    "organizeStatus": "外包招聘"
+  },
+  {
+    "job": {
+      "id": "d936ce3a0b47249e0nJ42t25FFFU",
+      "title": "RL Data 工程师-coding",
+      "company": "阿里巴巴集团",
+      "companyId": "5d627415a46b4a750nJ9",
+      "location": "杭州·余杭区·仓前",
+      "salary": "30-60K·16薪",
+      "tags": [
+        "3-5年",
+        "本科"
+      ],
+      "statusIconAlt": ""
+    },
+    "searchCity": "杭州",
+    "searchPositionId": "130121",
+    "salaryId": "407",
+    "searchDistrictId": "101210100",
+    "_configName": "杭州406-260925",
+    "_keyword": "数据标注_AI训练师",
+    "queryIndex": 0,
+    "salaryBelowMin": true,
+    "updatedAt": 1790405097058,
+    "organizeStatus": "HR离线30d"
+  },
+  {
+    "job": {
+      "id": "e03aa3caa2e7f1fe0nN42Nm9E1BW",
+      "title": "AI数据标注专家-omni方向",
+      "company": "乌鸫科技",
+      "companyId": "99d5004b33c2f2150XF43t28EQ~~",
+      "location": "杭州·余杭区·五常",
+      "salary": "18-35K",
+      "tags": [
+        "3-5年",
+        "本科"
+      ],
+      "statusIconAlt": ""
+    },
+    "searchCity": "杭州",
+    "searchPositionId": "130121",
+    "salaryId": "406",
+    "searchDistrictId": "101210100",
+    "_configName": "杭州406-260925",
+    "_keyword": "数据标注_AI训练师",
+    "queryIndex": 0,
+    "salaryBelowMin": true,
+    "updatedAt": 1790404939173,
+    "organizeStatus": "薪资下限"
+  },
+  {
+    "job": {
+      "id": "ef49d080aed767e60nV70ty8EVJU",
+      "title": "大模型 Benchmark 与评测体系",
+      "company": "某大型移动互联网上市公司",
+      "companyId": "",
+      "location": "杭州",
+      "salary": "35-60K·15薪",
+      "tags": [
+        "3-5年",
+        "本科"
+      ],
+      "statusIconAlt": "猎头职位"
+    },
+    "searchCity": "杭州",
+    "searchPositionId": "130121",
+    "salaryId": "407",
+    "searchDistrictId": "101210100",
+    "_configName": "杭州406-260925",
+    "_keyword": "数据标注_AI训练师",
+    "queryIndex": 0,
+    "salaryBelowMin": true,
+    "updatedAt": 1790405067082,
+    "organizeStatus": "外包招聘"
+  }
+]

@@ -1,0 +1,477 @@
+[
+  {
+    "job": {
+      "id": "10aba3dfeb8ece780nN929S-GVRY",
+      "title": "评测项目经理（base北京or杭州）",
+      "company": "阿里巴巴有限公司",
+      "companyId": "c832c601b8bf67bb03Z52N66FFc~",
+      "location": "重庆·南岸区·南滨路",
+      "salary": "15-25K",
+      "tags": [
+        "经验不限",
+        "本科"
+      ],
+      "statusIconAlt": "派遣"
+    },
+    "searchCity": "重庆",
+    "searchPositionId": "130121",
+    "salaryId": "406",
+    "searchDistrictId": "101040100",
+    "_configName": "重庆406-260925",
+    "_keyword": "数据标注_AI训练师",
+    "queryIndex": 0,
+    "salaryBelowMin": true,
+    "updatedAt": 1790403965119,
+    "organizeStatus": "薪资下限"
+  },
+  {
+    "job": {
+      "id": "121167761b162ed60nN72t2-EFtR",
+      "title": "智舱网联团队-大量HC",
+      "company": "某大型汽车研发/制造公司",
+      "companyId": "",
+      "location": "重庆",
+      "salary": "20-40K·15薪",
+      "tags": [
+        "5-10年",
+        "本科"
+      ],
+      "statusIconAlt": "猎头职位"
+    },
+    "searchCity": "重庆",
+    "searchPositionId": "130121",
+    "salaryId": "406",
+    "searchDistrictId": "101040100",
+    "_configName": "重庆406-260925",
+    "_keyword": "数据标注_AI训练师",
+    "queryIndex": 0,
+    "salaryBelowMin": true,
+    "updatedAt": 1790403965146,
+    "organizeStatus": "外包招聘"
+  },
+  {
+    "job": {
+      "id": "1ebe8d079a539e500nF43dm_FlNQ",
+      "title": "模型训练工程师(AI)",
+      "company": "某大型汽车研发/制造公司",
+      "companyId": "",
+      "location": "重庆",
+      "salary": "20-35K·15薪",
+      "tags": [
+        "5-10年",
+        "本科"
+      ],
+      "statusIconAlt": "猎头职位"
+    },
+    "searchCity": "重庆",
+    "searchPositionId": "130121",
+    "salaryId": "406",
+    "searchDistrictId": "101040100",
+    "_configName": "重庆406-260925",
+    "_keyword": "数据标注_AI训练师",
+    "queryIndex": 0,
+    "salaryBelowMin": true,
+    "updatedAt": 1790403965158,
+    "organizeStatus": "外包招聘"
+  },
+  {
+    "job": {
+      "id": "5b590527bbdadcff0ndy2tq4FFJU",
+      "title": "数据标注管理岗 (MJ001470)",
+      "company": "千里智驾",
+      "companyId": "182953338c03d09c03Zy3dq6EFU~",
+      "location": "重庆·两江新区·蔡家岗",
+      "salary": "25-40K·15薪",
+      "tags": [
+        "经验不限",
+        "本科"
+      ],
+      "statusIconAlt": ""
+    },
+    "searchCity": "重庆",
+    "searchPositionId": "130121",
+    "salaryId": "406",
+    "searchDistrictId": "101040100",
+    "_configName": "重庆406-260925",
+    "_keyword": "数据标注_AI训练师",
+    "queryIndex": 0,
+    "salaryBelowMin": true,
+    "updatedAt": 1790403965184,
+    "organizeStatus": "薪资下限"
+  },
+  {
+    "job": {
+      "id": "612db1e980bdb1e70nN82tW5FVFS",
+      "title": "AI 视频Caption质检（英语）-大厂正编-年终",
+      "company": "人瑞网络科技",
+      "companyId": "3ed4c6834985d7501H17396-GFE~",
+      "location": "重庆·两江新区·龙溪",
+      "salary": "15-25K",
+      "tags": [
+        "1-3年",
+        "本科"
+      ],
+      "statusIconAlt": ""
+    },
+    "searchCity": "重庆",
+    "searchPositionId": "130121",
+    "salaryId": "406",
+    "searchDistrictId": "101040100",
+    "_configName": "重庆406-260925",
+    "_keyword": "数据标注_AI训练师",
+    "queryIndex": 0,
+    "salaryBelowMin": true,
+    "updatedAt": 1790403965190,
+    "organizeStatus": "招呼未回"
+  },
+  {
+    "job": {
+      "id": "769d544af97a07d90nN93Nu_EVNR",
+      "title": "AIGC大模型标注项目经理（caption标注）",
+      "company": "首聘",
+      "companyId": "84208c59101f87a81HV_09y4FFM~",
+      "location": "重庆·两江新区·人和",
+      "salary": "15-25K",
+      "tags": [
+        "3-5年",
+        "本科"
+      ],
+      "statusIconAlt": ""
+    },
+    "searchCity": "重庆",
+    "searchPositionId": "130121",
+    "salaryId": "406",
+    "searchDistrictId": "101040100",
+    "_configName": "重庆406-260925",
+    "_keyword": "数据标注_AI训练师",
+    "queryIndex": 0,
+    "salaryBelowMin": true,
+    "updatedAt": 1790403965193,
+    "organizeStatus": "薪资下限"
+  },
+  {
+    "job": {
+      "id": "850fc5c5bd32120b0nF73Nq7FVBZ",
+      "title": "数据标注负责人",
+      "company": "爱买特",
+      "companyId": "3bc0ca11222ef44a03Zy2dq8GFs~",
+      "location": "重庆·两江新区·黄泥塝",
+      "salary": "55-85K·14薪",
+      "tags": [
+        "10年以上",
+        "本科"
+      ],
+      "statusIconAlt": ""
+    },
+    "searchCity": "重庆",
+    "searchPositionId": "130121",
+    "salaryId": "407",
+    "searchDistrictId": "101040100",
+    "_configName": "重庆406-260925",
+    "_keyword": "数据标注_AI训练师",
+    "queryIndex": 0,
+    "salaryBelowMin": false,
+    "updatedAt": 1790404016517,
+    "organizeStatus": "招呼未回"
+  },
+  {
+    "job": {
+      "id": "8b4c33409a145a440nN53dq1E1tV",
+      "title": "标注总监",
+      "company": "畅云创客",
+      "companyId": "ca558a76ef0dfe0b0XZ62tS8",
+      "location": "重庆·渝中区·渝州路",
+      "salary": "20-30K",
+      "tags": [
+        "5-10年",
+        "大专"
+      ],
+      "statusIconAlt": ""
+    },
+    "searchCity": "重庆",
+    "searchPositionId": "130121",
+    "salaryId": "406",
+    "searchDistrictId": "101040100",
+    "_configName": "重庆406-260925",
+    "_keyword": "数据标注_AI训练师",
+    "queryIndex": 0,
+    "salaryBelowMin": true,
+    "updatedAt": 1790403965197,
+    "organizeStatus": "薪资下限"
+  },
+  {
+    "job": {
+      "id": "8da5aa4b713e082803R-2du7EVpY",
+      "title": "模型标注专员",
+      "company": "重庆某大型互联网数据服务公司",
+      "companyId": "",
+      "location": "重庆",
+      "salary": "20-21K",
+      "tags": [
+        "1-3年",
+        "本科"
+      ],
+      "statusIconAlt": "猎头职位"
+    },
+    "searchCity": "重庆",
+    "searchPositionId": "130121",
+    "salaryId": "406",
+    "searchDistrictId": "101040100",
+    "_configName": "重庆406-260925",
+    "_keyword": "数据标注_AI训练师",
+    "queryIndex": 0,
+    "salaryBelowMin": true,
+    "updatedAt": 1790403965202,
+    "organizeStatus": "外包招聘"
+  },
+  {
+    "job": {
+      "id": "8fcf754d11861b9e0nF-2967GVFY",
+      "title": "模型训练师 （文案方向）",
+      "company": "重庆某大型新能源汽车研发/制造上市公司",
+      "companyId": "",
+      "location": "重庆",
+      "salary": "15-30K·14薪",
+      "tags": [
+        "5-10年",
+        "本科"
+      ],
+      "statusIconAlt": "猎头职位"
+    },
+    "searchCity": "重庆",
+    "searchPositionId": "130121",
+    "salaryId": "406",
+    "searchDistrictId": "101040100",
+    "_configName": "重庆406-260925",
+    "_keyword": "数据标注_AI训练师",
+    "queryIndex": 0,
+    "salaryBelowMin": true,
+    "updatedAt": 1790403965204,
+    "organizeStatus": "外包招聘"
+  },
+  {
+    "job": {
+      "id": "907e26e8d98f41cd0nF93dW1FVZU",
+      "title": "AI视频数据评测【大平台+双休+正编】",
+      "company": "某大型计算机服务公司",
+      "companyId": "",
+      "location": "重庆",
+      "salary": "15-25K",
+      "tags": [
+        "1-3年",
+        "本科"
+      ],
+      "statusIconAlt": "猎头职位"
+    },
+    "searchCity": "重庆",
+    "searchPositionId": "130121",
+    "salaryId": "406",
+    "searchDistrictId": "101040100",
+    "_configName": "重庆406-260925",
+    "_keyword": "数据标注_AI训练师",
+    "queryIndex": 0,
+    "salaryBelowMin": true,
+    "updatedAt": 1790403965223,
+    "organizeStatus": "外包招聘"
+  },
+  {
+    "job": {
+      "id": "961960fc5921f5c30nN42Ni4F1NY",
+      "title": "AI提效工具运用与管理岗（新媒体）",
+      "company": "重庆某中型新能源汽车公司",
+      "companyId": "",
+      "location": "重庆",
+      "salary": "20-40K",
+      "tags": [
+        "5-10年",
+        "本科"
+      ],
+      "statusIconAlt": "猎头职位"
+    },
+    "searchCity": "重庆",
+    "searchPositionId": "130121",
+    "salaryId": "406",
+    "searchDistrictId": "101040100",
+    "_configName": "重庆406-260925",
+    "_keyword": "数据标注_AI训练师",
+    "queryIndex": 0,
+    "salaryBelowMin": true,
+    "updatedAt": 1790403966038,
+    "organizeStatus": "外包招聘"
+  },
+  {
+    "job": {
+      "id": "acd6229b9a95c6d60nJ52Nm9ElRQ",
+      "title": "AI模型训练师（文案）",
+      "company": "重庆某大型汽车研发/制造上市公司",
+      "companyId": "",
+      "location": "重庆",
+      "salary": "20-40K",
+      "tags": [
+        "3-5年",
+        "本科"
+      ],
+      "statusIconAlt": "猎头职位"
+    },
+    "searchCity": "重庆",
+    "searchPositionId": "130121",
+    "salaryId": "406",
+    "searchDistrictId": "101040100",
+    "_configName": "重庆406-260925",
+    "_keyword": "数据标注_AI训练师",
+    "queryIndex": 0,
+    "salaryBelowMin": true,
+    "updatedAt": 1790403967033,
+    "organizeStatus": "外包招聘"
+  },
+  {
+    "job": {
+      "id": "b216dc6fb37b5c410nN42Ni_EVdV",
+      "title": "AI 视频Caption质检验收",
+      "company": "深圳某大型互联网公司",
+      "companyId": "",
+      "location": "重庆",
+      "salary": "20-21K·13薪",
+      "tags": [
+        "3-5年",
+        "本科"
+      ],
+      "statusIconAlt": "猎头职位"
+    },
+    "searchCity": "重庆",
+    "searchPositionId": "130121",
+    "salaryId": "406",
+    "searchDistrictId": "101040100",
+    "_configName": "重庆406-260925",
+    "_keyword": "数据标注_AI训练师",
+    "queryIndex": 0,
+    "salaryBelowMin": true,
+    "updatedAt": 1790403967053,
+    "organizeStatus": "外包招聘"
+  },
+  {
+    "job": {
+      "id": "b6a807e7eb603e120nN83dW5FFRS",
+      "title": "生态审核组长-重庆",
+      "company": "杭州某大型互联网电商平台上市公司",
+      "companyId": "",
+      "location": "重庆",
+      "salary": "20-25K·13薪",
+      "tags": [
+        "经验不限",
+        "本科"
+      ],
+      "statusIconAlt": "猎头职位"
+    },
+    "searchCity": "重庆",
+    "searchPositionId": "130121",
+    "salaryId": "406",
+    "searchDistrictId": "101040100",
+    "_configName": "重庆406-260925",
+    "_keyword": "数据标注_AI训练师",
+    "queryIndex": 0,
+    "salaryBelowMin": true,
+    "updatedAt": 1790403967057,
+    "organizeStatus": "外包招聘"
+  },
+  {
+    "job": {
+      "id": "c3ab0949d2ede79b0nJ72ti0FlNS",
+      "title": "AI数据运营负责人",
+      "company": "重庆某大型互联网公司",
+      "companyId": "",
+      "location": "重庆",
+      "salary": "20-25K",
+      "tags": [
+        "5-10年",
+        "本科"
+      ],
+      "statusIconAlt": "猎头职位"
+    },
+    "searchCity": "重庆",
+    "searchPositionId": "130121",
+    "salaryId": "406",
+    "searchDistrictId": "101040100",
+    "_configName": "重庆406-260925",
+    "_keyword": "数据标注_AI训练师",
+    "queryIndex": 0,
+    "salaryBelowMin": true,
+    "updatedAt": 1790403967057,
+    "organizeStatus": "外包招聘"
+  },
+  {
+    "job": {
+      "id": "e8bd9b878d723ad80nN93d-9F1tX",
+      "title": "成都-AI训练师/代码评测-双休-全额公积金",
+      "company": "易宝软件",
+      "companyId": "5615286371efa3d81nF-09i-EFc~",
+      "location": "重庆·南岸区·南滨路",
+      "salary": "18-35K",
+      "tags": [
+        "3-5年",
+        "硕士"
+      ],
+      "statusIconAlt": ""
+    },
+    "searchCity": "重庆",
+    "searchPositionId": "130121",
+    "salaryId": "406",
+    "searchDistrictId": "101040100",
+    "_configName": "重庆406-260925",
+    "_keyword": "数据标注_AI训练师",
+    "queryIndex": 0,
+    "salaryBelowMin": true,
+    "updatedAt": 1790403967058,
+    "organizeStatus": "薪资下限"
+  },
+  {
+    "job": {
+      "id": "f057be71184cb1780ndy3tm0EVFY",
+      "title": "模型训练师 （文案方向）",
+      "company": "某大型汽车研发/制造公司",
+      "companyId": "",
+      "location": "重庆",
+      "salary": "20-35K",
+      "tags": [
+        "3-5年",
+        "本科"
+      ],
+      "statusIconAlt": "猎头职位"
+    },
+    "searchCity": "重庆",
+    "searchPositionId": "130121",
+    "salaryId": "406",
+    "searchDistrictId": "101040100",
+    "_configName": "重庆406-260925",
+    "_keyword": "数据标注_AI训练师",
+    "queryIndex": 0,
+    "salaryBelowMin": true,
+    "updatedAt": 1790403967059,
+    "organizeStatus": "外包招聘"
+  },
+  {
+    "job": {
+      "id": "fe026ba10ed9d9620nN90t-4FlpX",
+      "title": "AI技术专家",
+      "company": "某大型汽车研发/制造公司",
+      "companyId": "",
+      "location": "重庆",
+      "salary": "40-70K·15薪",
+      "tags": [
+        "5-10年",
+        "本科"
+      ],
+      "statusIconAlt": "代招职位"
+    },
+    "searchCity": "重庆",
+    "searchPositionId": "130121",
+    "salaryId": "407",
+    "searchDistrictId": "101040100",
+    "_configName": "重庆406-260925",
+    "_keyword": "数据标注_AI训练师",
+    "queryIndex": 0,
+    "salaryBelowMin": false,
+    "updatedAt": 1790404006530,
+    "organizeStatus": "外包招聘"
+  }
+]

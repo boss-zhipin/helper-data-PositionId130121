@@ -1,0 +1,827 @@
+[
+  {
+    "job": {
+      "id": "0404491b146710a00nZ8292_GFNR",
+      "title": "游戏AI Agent研发工程师",
+      "company": "某大型互联网上市公司",
+      "companyId": "",
+      "location": "上海",
+      "salary": "50-80K·16薪",
+      "tags": [
+        "5-10年",
+        "本科"
+      ],
+      "statusIconAlt": "猎头职位"
+    },
+    "searchCity": "上海",
+    "searchPositionId": "130121",
+    "salaryId": "407",
+    "searchDistrictId": "101020100",
+    "_configName": "上海406-260925",
+    "_keyword": "数据标注_AI训练师",
+    "queryIndex": 0,
+    "salaryBelowMin": false,
+    "updatedAt": 1790406230931,
+    "organizeStatus": "外包招聘"
+  },
+  {
+    "job": {
+      "id": "130af5d2eacdfd2b0nF93di8GVNU",
+      "title": "遥操作系统工程师（具身智能/VR机械臂方向",
+      "company": "上海某大厂具身智能公司",
+      "companyId": "",
+      "location": "上海",
+      "salary": "35-60K·15薪",
+      "tags": [
+        "3-5年",
+        "本科"
+      ],
+      "statusIconAlt": "猎头职位"
+    },
+    "searchCity": "上海",
+    "searchPositionId": "130121",
+    "salaryId": "407",
+    "searchDistrictId": "101020100",
+    "_configName": "上海406-260925",
+    "_keyword": "数据标注_AI训练师",
+    "queryIndex": 0,
+    "salaryBelowMin": true,
+    "updatedAt": 1790406090953,
+    "organizeStatus": "外包招聘"
+  },
+  {
+    "job": {
+      "id": "1b5d5651bf61547d03183Ny8GFRZ",
+      "title": "AI数字化转型负责人",
+      "company": "某大型汽车研发制造公司",
+      "companyId": "",
+      "location": "上海",
+      "salary": "45-75K·15薪",
+      "tags": [
+        "5-10年",
+        "本科"
+      ],
+      "statusIconAlt": "猎头职位"
+    },
+    "searchCity": "上海",
+    "searchPositionId": "130121",
+    "salaryId": "407",
+    "searchDistrictId": "101020100",
+    "_configName": "上海406-260925",
+    "_keyword": "数据标注_AI训练师",
+    "queryIndex": 0,
+    "salaryBelowMin": false,
+    "updatedAt": 1790406180933,
+    "organizeStatus": "外包招聘"
+  },
+  {
+    "job": {
+      "id": "2aa46278b08284fb0nN_3du9EltQ",
+      "title": "agent测评师-ai图片视频方向",
+      "company": "北京演语科技有限公司",
+      "companyId": "ef2d4090b1b2e45103x_3ty5GFo~",
+      "location": "上海·徐汇区·漕河泾",
+      "salary": "20-40K·15薪",
+      "tags": [
+        "3-5年",
+        "本科"
+      ],
+      "statusIconAlt": ""
+    },
+    "searchCity": "上海",
+    "searchPositionId": "130121",
+    "salaryId": "406",
+    "searchDistrictId": "101020100",
+    "_configName": "上海406-260925",
+    "_keyword": "数据标注_AI训练师",
+    "queryIndex": 0,
+    "salaryBelowMin": true,
+    "updatedAt": 1790405959795,
+    "organizeStatus": "薪资下限"
+  },
+  {
+    "job": {
+      "id": "3c0446093dab0a1c0nN82Ni_F1VT",
+      "title": "语音标注团队经理（0-1搭建）",
+      "company": "上海某中型人工智能公司",
+      "companyId": "",
+      "location": "上海",
+      "salary": "35-45K",
+      "tags": [
+        "3-5年",
+        "本科"
+      ],
+      "statusIconAlt": "猎头职位"
+    },
+    "searchCity": "上海",
+    "searchPositionId": "130121",
+    "salaryId": "406",
+    "searchDistrictId": "101020100",
+    "_configName": "上海406-260925",
+    "_keyword": "数据标注_AI训练师",
+    "queryIndex": 0,
+    "salaryBelowMin": true,
+    "updatedAt": 1790405959801,
+    "organizeStatus": "外包招聘"
+  },
+  {
+    "job": {
+      "id": "3d50e31efaf068650nF-29y8FldW",
+      "title": "自动化标注技术专家",
+      "company": "传音控股",
+      "companyId": "3d0b6629203bb0b61nJy3t-0",
+      "location": "上海·浦东新区·张江",
+      "salary": "40-60K·15薪",
+      "tags": [
+        "5-10年",
+        "本科"
+      ],
+      "statusIconAlt": ""
+    },
+    "searchCity": "上海",
+    "searchPositionId": "130121",
+    "salaryId": "407",
+    "searchDistrictId": "101020100",
+    "_configName": "上海406-260925",
+    "_keyword": "数据标注_AI训练师",
+    "queryIndex": 0,
+    "salaryBelowMin": false,
+    "updatedAt": 1790406080949,
+    "organizeStatus": "HR离线30d"
+  },
+  {
+    "job": {
+      "id": "40d52ffa9484e49c0nN409W9EVVX",
+      "title": "多模态大模型评测专家",
+      "company": "上海某大型互联网公司",
+      "companyId": "",
+      "location": "上海",
+      "salary": "40-70K·16薪",
+      "tags": [
+        "1-3年",
+        "本科"
+      ],
+      "statusIconAlt": "猎头职位"
+    },
+    "searchCity": "上海",
+    "searchPositionId": "130121",
+    "salaryId": "407",
+    "searchDistrictId": "101020100",
+    "_configName": "上海406-260925",
+    "_keyword": "数据标注_AI训练师",
+    "queryIndex": 0,
+    "salaryBelowMin": false,
+    "updatedAt": 1790406060950,
+    "organizeStatus": "外包招聘"
+  },
+  {
+    "job": {
+      "id": "4186744fdd27ffd40nN50tu5FlRW",
+      "title": "高级MLOps数据运营（外企、自动驾驶）",
+      "company": "某大型智能硬件上市公司",
+      "companyId": "",
+      "location": "上海",
+      "salary": "40-70K·13薪",
+      "tags": [
+        "5-10年",
+        "本科"
+      ],
+      "statusIconAlt": "猎头职位"
+    },
+    "searchCity": "上海",
+    "searchPositionId": "130121",
+    "salaryId": "407",
+    "searchDistrictId": "101020100",
+    "_configName": "上海406-260925",
+    "_keyword": "数据标注_AI训练师",
+    "queryIndex": 0,
+    "salaryBelowMin": false,
+    "updatedAt": 1790406040952,
+    "organizeStatus": "外包招聘"
+  },
+  {
+    "job": {
+      "id": "41a775da34f59aa00nBy0ti9GFdU",
+      "title": "ai人工智能工程师+数据处理",
+      "company": "某大型人工智能上市公司",
+      "companyId": "",
+      "location": "上海",
+      "salary": "45-60K",
+      "tags": [
+        "5-10年",
+        "硕士"
+      ],
+      "statusIconAlt": "猎头职位"
+    },
+    "searchCity": "上海",
+    "searchPositionId": "130121",
+    "salaryId": "407",
+    "searchDistrictId": "101020100",
+    "_configName": "上海406-260925",
+    "_keyword": "数据标注_AI训练师",
+    "queryIndex": 0,
+    "salaryBelowMin": false,
+    "updatedAt": 1790406220938,
+    "organizeStatus": "外包招聘"
+  },
+  {
+    "job": {
+      "id": "4a6f6e720faeefbe0nVy3Ni9GFNU",
+      "title": "AI训练专家",
+      "company": "携程集团",
+      "companyId": "ef2ede3e92bf51f91nV72966ElM~",
+      "location": "上海·长宁区·北新泾",
+      "salary": "30-40K·14薪",
+      "tags": [
+        "10年以上",
+        "本科"
+      ],
+      "statusIconAlt": ""
+    },
+    "searchCity": "上海",
+    "searchPositionId": "130121",
+    "salaryId": "406",
+    "searchDistrictId": "101020100",
+    "_configName": "上海406-260925",
+    "_keyword": "数据标注_AI训练师",
+    "queryIndex": 0,
+    "salaryBelowMin": true,
+    "updatedAt": 1790405959817,
+    "organizeStatus": "招呼未回"
+  },
+  {
+    "job": {
+      "id": "509c0988d4c66e4a0nJ93tq7F1BS",
+      "title": "AI技术工程师",
+      "company": "上海某中型通信/网络设备公司",
+      "companyId": "",
+      "location": "上海",
+      "salary": "40-60K",
+      "tags": [
+        "1-3年",
+        "硕士"
+      ],
+      "statusIconAlt": "猎头职位"
+    },
+    "searchCity": "上海",
+    "searchPositionId": "130121",
+    "salaryId": "407",
+    "searchDistrictId": "101020100",
+    "_configName": "上海406-260925",
+    "_keyword": "数据标注_AI训练师",
+    "queryIndex": 0,
+    "salaryBelowMin": false,
+    "updatedAt": 1790406240935,
+    "organizeStatus": "外包招聘"
+  },
+  {
+    "job": {
+      "id": "52ed2bf2ae4f44770nN43ty_E1ZR",
+      "title": "多模态大模型评测专家",
+      "company": "深圳某中型AI视频创意平台公司",
+      "companyId": "",
+      "location": "上海",
+      "salary": "40-60K·14薪",
+      "tags": [
+        "3-5年",
+        "本科"
+      ],
+      "statusIconAlt": "猎头职位"
+    },
+    "searchCity": "上海",
+    "searchPositionId": "130121",
+    "salaryId": "407",
+    "searchDistrictId": "101020100",
+    "_configName": "上海406-260925",
+    "_keyword": "数据标注_AI训练师",
+    "queryIndex": 0,
+    "salaryBelowMin": false,
+    "updatedAt": 1790406120937,
+    "organizeStatus": "外包招聘"
+  },
+  {
+    "job": {
+      "id": "70fefcce7bcd562d0nR50tS4EVNX",
+      "title": "高难度模型评测解决方案专家",
+      "company": "本原智数",
+      "companyId": "df2ff527436fe3381HB-3dW7E1Y~",
+      "location": "上海·徐汇区·漕河泾",
+      "salary": "30-40K",
+      "tags": [
+        "5-10年",
+        "本科"
+      ],
+      "statusIconAlt": ""
+    },
+    "searchCity": "上海",
+    "searchPositionId": "130121",
+    "salaryId": "406",
+    "searchDistrictId": "101020100",
+    "_configName": "上海406-260925",
+    "_keyword": "数据标注_AI训练师",
+    "queryIndex": 0,
+    "salaryBelowMin": true,
+    "updatedAt": 1790405959819,
+    "organizeStatus": "薪资下限"
+  },
+  {
+    "job": {
+      "id": "753afcf0ec85d1c20nN52di9E1ZT",
+      "title": "数据标注算法TL（500强 行业龙头）",
+      "company": "某大型知名专用设备公司",
+      "companyId": "",
+      "location": "上海",
+      "salary": "40-70K·16薪",
+      "tags": [
+        "5-10年",
+        "本科"
+      ],
+      "statusIconAlt": "猎头职位"
+    },
+    "searchCity": "上海",
+    "searchPositionId": "130121",
+    "salaryId": "407",
+    "searchDistrictId": "101020100",
+    "_configName": "上海406-260925",
+    "_keyword": "数据标注_AI训练师",
+    "queryIndex": 0,
+    "salaryBelowMin": false,
+    "updatedAt": 1790406050950,
+    "organizeStatus": "外包招聘"
+  },
+  {
+    "job": {
+      "id": "79e205bf21486de10nFy0tS5EFFT",
+      "title": "LLM 后训练工程师",
+      "company": "弗洛贝塔",
+      "companyId": "7b08376be6f45b2c03Fz2t24EFc~",
+      "location": "上海·黄浦区·淮海路",
+      "salary": "30-60K·15薪",
+      "tags": [
+        "5-10年",
+        "本科"
+      ],
+      "statusIconAlt": ""
+    },
+    "searchCity": "上海",
+    "searchPositionId": "130121",
+    "salaryId": "407",
+    "searchDistrictId": "101020100",
+    "_configName": "上海406-260925",
+    "_keyword": "数据标注_AI训练师",
+    "queryIndex": 0,
+    "salaryBelowMin": true,
+    "updatedAt": 1790406190937,
+    "organizeStatus": "薪资下限"
+  },
+  {
+    "job": {
+      "id": "871fdbb2cd7d0ce00nJ62Ny9GFRV",
+      "title": "AI agent工程师",
+      "company": "蕃茄蛋信息科技",
+      "companyId": "e1ecd0947256947c0XB62Nm6EA~~",
+      "location": "上海·静安区·静安寺",
+      "salary": "20-40K",
+      "tags": [
+        "经验不限",
+        "本科"
+      ],
+      "statusIconAlt": ""
+    },
+    "searchCity": "上海",
+    "searchPositionId": "130121",
+    "salaryId": "406",
+    "searchDistrictId": "101020100",
+    "_configName": "上海406-260925",
+    "_keyword": "数据标注_AI训练师",
+    "queryIndex": 0,
+    "salaryBelowMin": true,
+    "updatedAt": 1790405959822,
+    "organizeStatus": "薪资下限"
+  },
+  {
+    "job": {
+      "id": "8fdae2277103ce120nF709y0EFFY",
+      "title": "达摩院-AI 应用开发专家（上杭）",
+      "company": "阿里巴巴集团",
+      "companyId": "5d627415a46b4a750nJ9",
+      "location": "上海·浦东新区·张江",
+      "salary": "40-70K·16薪",
+      "tags": [
+        "5-10年",
+        "本科"
+      ],
+      "statusIconAlt": ""
+    },
+    "searchCity": "上海",
+    "searchPositionId": "130121",
+    "salaryId": "407",
+    "searchDistrictId": "101020100",
+    "_configName": "上海406-260925",
+    "_keyword": "数据标注_AI训练师",
+    "queryIndex": 0,
+    "salaryBelowMin": false,
+    "updatedAt": 1790406010960,
+    "organizeStatus": "HR离线30d"
+  },
+  {
+    "job": {
+      "id": "a10c84184644f5620nd42t2-FlZR",
+      "title": "端到端自动驾驶数据工程师",
+      "company": "某大型知名汽车研发上市公司",
+      "companyId": "",
+      "location": "上海",
+      "salary": "50-80K·15薪",
+      "tags": [
+        "经验不限",
+        "本科"
+      ],
+      "statusIconAlt": "猎头职位"
+    },
+    "searchCity": "上海",
+    "searchPositionId": "130121",
+    "salaryId": "407",
+    "searchDistrictId": "101020100",
+    "_configName": "上海406-260925",
+    "_keyword": "数据标注_AI训练师",
+    "queryIndex": 0,
+    "salaryBelowMin": false,
+    "updatedAt": 1790406210932,
+    "organizeStatus": "外包招聘"
+  },
+  {
+    "job": {
+      "id": "b4c731157699fc620nN439u4E1ZV",
+      "title": "上市集团-数据算法工程师/专家（标注）",
+      "company": "浙江某中型人工智能公司",
+      "companyId": "",
+      "location": "上海",
+      "salary": "70-90K·15薪",
+      "tags": [
+        "经验不限",
+        "本科"
+      ],
+      "statusIconAlt": "猎头职位"
+    },
+    "searchCity": "上海",
+    "searchPositionId": "130121",
+    "salaryId": "407",
+    "searchDistrictId": "101020100",
+    "_configName": "上海406-260925",
+    "_keyword": "数据标注_AI训练师",
+    "queryIndex": 0,
+    "salaryBelowMin": false,
+    "updatedAt": 1790406200933,
+    "organizeStatus": "外包招聘"
+  },
+  {
+    "job": {
+      "id": "b5353afe5eccd6930nBz39W4E1pR",
+      "title": "AI提效专家",
+      "company": "某中型物流/仓储公司",
+      "companyId": "",
+      "location": "上海",
+      "salary": "35-60K·16薪",
+      "tags": [
+        "5-10年",
+        "本科"
+      ],
+      "statusIconAlt": "猎头职位"
+    },
+    "searchCity": "上海",
+    "searchPositionId": "130121",
+    "salaryId": "407",
+    "searchDistrictId": "101020100",
+    "_configName": "上海406-260925",
+    "_keyword": "数据标注_AI训练师",
+    "queryIndex": 0,
+    "salaryBelowMin": true,
+    "updatedAt": 1790406160939,
+    "organizeStatus": "外包招聘"
+  },
+  {
+    "job": {
+      "id": "b5d528dd0370fc2c0nJ40tS9FldZ",
+      "title": "具身智能数据运营负责人",
+      "company": "某知名互联网公司",
+      "companyId": "",
+      "location": "上海",
+      "salary": "45-75K",
+      "tags": [
+        "3-5年",
+        "本科"
+      ],
+      "statusIconAlt": "猎头职位"
+    },
+    "searchCity": "上海",
+    "searchPositionId": "130121",
+    "salaryId": "407",
+    "searchDistrictId": "101020100",
+    "_configName": "上海406-260925",
+    "_keyword": "数据标注_AI训练师",
+    "queryIndex": 0,
+    "salaryBelowMin": false,
+    "updatedAt": 1790406110936,
+    "organizeStatus": "学历不符"
+  },
+  {
+    "job": {
+      "id": "c409031bae7303b40nB609-1EVtX",
+      "title": "自动驾驶标注平台产品经理",
+      "company": "光轮智能",
+      "companyId": "2e554a4adb6c4aac1X17296_EFc~",
+      "location": "上海·嘉定区·安亭",
+      "salary": "30-60K",
+      "tags": [
+        "5-10年",
+        "本科"
+      ],
+      "statusIconAlt": ""
+    },
+    "searchCity": "上海",
+    "searchPositionId": "130121",
+    "salaryId": "407",
+    "searchDistrictId": "101020100",
+    "_configName": "上海406-260925",
+    "_keyword": "数据标注_AI训练师",
+    "queryIndex": 0,
+    "salaryBelowMin": true,
+    "updatedAt": 1790406260934,
+    "organizeStatus": "行业不符"
+  },
+  {
+    "job": {
+      "id": "cad771be1f5c93d50nR93di1GVVQ",
+      "title": "大模型数据专家",
+      "company": "某大型人力资源服务公司",
+      "companyId": "",
+      "location": "上海",
+      "salary": "40-60K·15薪",
+      "tags": [
+        "5-10年",
+        "硕士"
+      ],
+      "statusIconAlt": "猎头职位"
+    },
+    "searchCity": "上海",
+    "searchPositionId": "130121",
+    "salaryId": "407",
+    "searchDistrictId": "101020100",
+    "_configName": "上海406-260925",
+    "_keyword": "数据标注_AI训练师",
+    "queryIndex": 0,
+    "salaryBelowMin": false,
+    "updatedAt": 1790406250934,
+    "organizeStatus": "外包招聘"
+  },
+  {
+    "job": {
+      "id": "ccef0fac096c32dc0nN_3NS1FlJW",
+      "title": "自动标注算法负责人",
+      "company": "长沙某大型企业服务上市公司",
+      "companyId": "",
+      "location": "上海",
+      "salary": "30-60K",
+      "tags": [
+        "3-5年",
+        "本科"
+      ],
+      "statusIconAlt": "猎头职位"
+    },
+    "searchCity": "上海",
+    "searchPositionId": "130121",
+    "salaryId": "407",
+    "searchDistrictId": "101020100",
+    "_configName": "上海406-260925",
+    "_keyword": "数据标注_AI训练师",
+    "queryIndex": 0,
+    "salaryBelowMin": true,
+    "updatedAt": 1790406020952,
+    "organizeStatus": "外包招聘"
+  },
+  {
+    "job": {
+      "id": "da9a7047c365f6800nN529-5FVdQ",
+      "title": "具身智能数据运营负责人",
+      "company": "上海某中型人工智能上市公司",
+      "companyId": "",
+      "location": "上海",
+      "salary": "35-65K",
+      "tags": [
+        "3-5年",
+        "本科"
+      ],
+      "statusIconAlt": "猎头职位"
+    },
+    "searchCity": "上海",
+    "searchPositionId": "130121",
+    "salaryId": "407",
+    "searchDistrictId": "101020100",
+    "_configName": "上海406-260925",
+    "_keyword": "数据标注_AI训练师",
+    "queryIndex": 0,
+    "salaryBelowMin": true,
+    "updatedAt": 1790406140936,
+    "organizeStatus": "外包招聘"
+  },
+  {
+    "job": {
+      "id": "dace64b257e99cb80nJz39i8E1pT",
+      "title": "数据算法工程师/专家",
+      "company": "某知名汽车研发公司",
+      "companyId": "",
+      "location": "上海",
+      "salary": "30-60K·15薪",
+      "tags": [
+        "经验不限",
+        "本科"
+      ],
+      "statusIconAlt": "猎头职位"
+    },
+    "searchCity": "上海",
+    "searchPositionId": "130121",
+    "salaryId": "407",
+    "searchDistrictId": "101020100",
+    "_configName": "上海406-260925",
+    "_keyword": "数据标注_AI训练师",
+    "queryIndex": 0,
+    "salaryBelowMin": true,
+    "updatedAt": 1790406000949,
+    "organizeStatus": "外包招聘"
+  },
+  {
+    "job": {
+      "id": "dd49e6a1f40da5540nJ-2dy_EldW",
+      "title": "Harness工程专家",
+      "company": "某大型汽车研发/制造公司",
+      "companyId": "",
+      "location": "上海",
+      "salary": "80-110K·15薪",
+      "tags": [
+        "10年以上",
+        "本科"
+      ],
+      "statusIconAlt": "猎头职位"
+    },
+    "searchCity": "上海",
+    "searchPositionId": "130121",
+    "salaryId": "407",
+    "searchDistrictId": "101020100",
+    "_configName": "上海406-260925",
+    "_keyword": "数据标注_AI训练师",
+    "queryIndex": 0,
+    "salaryBelowMin": false,
+    "updatedAt": 1790406030929,
+    "organizeStatus": "外包招聘"
+  },
+  {
+    "job": {
+      "id": "e16332e2ffe6ae760nJz2dq7GFFU",
+      "title": "AI Infra工程师",
+      "company": "上海某中型AI机器人公司",
+      "companyId": "",
+      "location": "上海",
+      "salary": "45-70K·14薪",
+      "tags": [
+        "5-10年",
+        "本科"
+      ],
+      "statusIconAlt": "猎头职位"
+    },
+    "searchCity": "上海",
+    "searchPositionId": "130121",
+    "salaryId": "407",
+    "searchDistrictId": "101020100",
+    "_configName": "上海406-260925",
+    "_keyword": "数据标注_AI训练师",
+    "queryIndex": 0,
+    "salaryBelowMin": false,
+    "updatedAt": 1790406170931,
+    "organizeStatus": "外包招聘"
+  },
+  {
+    "job": {
+      "id": "e33bb1dcb19cd6c60nV42tq8EFtR",
+      "title": "AI Infra专家（一线大厂核心，高薪速通）",
+      "company": "北京某中型互联网公司",
+      "companyId": "",
+      "location": "上海",
+      "salary": "40-70K·16薪",
+      "tags": [
+        "3-5年",
+        "本科"
+      ],
+      "statusIconAlt": "猎头职位"
+    },
+    "searchCity": "上海",
+    "searchPositionId": "130121",
+    "salaryId": "407",
+    "searchDistrictId": "101020100",
+    "_configName": "上海406-260925",
+    "_keyword": "数据标注_AI训练师",
+    "queryIndex": 0,
+    "salaryBelowMin": false,
+    "updatedAt": 1790406100931,
+    "organizeStatus": "外包招聘"
+  },
+  {
+    "job": {
+      "id": "e3793fcbd09c07ce0nN72920ElJV",
+      "title": "数据标定工程师",
+      "company": "上海某中型人工智能自动驾驶环卫设备研发公司",
+      "companyId": "",
+      "location": "上海",
+      "salary": "30-40K",
+      "tags": [
+        "3-5年",
+        "本科"
+      ],
+      "statusIconAlt": "猎头职位"
+    },
+    "searchCity": "上海",
+    "searchPositionId": "130121",
+    "salaryId": "406",
+    "searchDistrictId": "101020100",
+    "_configName": "上海406-260925",
+    "_keyword": "数据标注_AI训练师",
+    "queryIndex": 0,
+    "salaryBelowMin": true,
+    "updatedAt": 1790405959830,
+    "organizeStatus": "外包招聘"
+  },
+  {
+    "job": {
+      "id": "ee591f2f1b3ae5900nN9092_EFdX",
+      "title": "AI数据交付/解决方案总监 (MJ005548)",
+      "company": "知乎",
+      "companyId": "8372b71df55405071nJ52Nu9",
+      "location": "上海·普陀区·曹杨",
+      "salary": "30-60K·15薪",
+      "tags": [
+        "5-10年",
+        "本科"
+      ],
+      "statusIconAlt": ""
+    },
+    "searchCity": "上海",
+    "searchPositionId": "130121",
+    "salaryId": "407",
+    "searchDistrictId": "101020100",
+    "_configName": "上海406-260925",
+    "_keyword": "数据标注_AI训练师",
+    "queryIndex": 0,
+    "salaryBelowMin": true,
+    "updatedAt": 1790406150932,
+    "organizeStatus": "招呼未回"
+  },
+  {
+    "job": {
+      "id": "ef10fa5aa78c00050nN739-0FFRY",
+      "title": "多模态大模型评测专家",
+      "company": "北京演语科技有限公司",
+      "companyId": "ef2d4090b1b2e45103x_3ty5GFo~",
+      "location": "上海·徐汇区·漕河泾",
+      "salary": "30-60K·15薪",
+      "tags": [
+        "3-5年",
+        "本科"
+      ],
+      "statusIconAlt": ""
+    },
+    "searchCity": "上海",
+    "searchPositionId": "130121",
+    "salaryId": "407",
+    "searchDistrictId": "101020100",
+    "_configName": "上海406-260925",
+    "_keyword": "数据标注_AI训练师",
+    "queryIndex": 0,
+    "salaryBelowMin": true,
+    "updatedAt": 1790406130939,
+    "organizeStatus": "薪资下限"
+  },
+  {
+    "job": {
+      "id": "f9afac6504c4ef7e0nFz2NW5EFpW",
+      "title": "智驾数据算法专家",
+      "company": "某大型汽车研发/制造公司",
+      "companyId": "",
+      "location": "上海",
+      "salary": "40-70K·15薪",
+      "tags": [
+        "3-5年",
+        "本科"
+      ],
+      "statusIconAlt": "猎头职位"
+    },
+    "searchCity": "上海",
+    "searchPositionId": "130121",
+    "salaryId": "407",
+    "searchDistrictId": "101020100",
+    "_configName": "上海406-260925",
+    "_keyword": "数据标注_AI训练师",
+    "queryIndex": 0,
+    "salaryBelowMin": false,
+    "updatedAt": 1790406070947,
+    "organizeStatus": "外包招聘"
+  }
+]

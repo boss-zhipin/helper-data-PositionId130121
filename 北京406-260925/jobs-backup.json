@@ -1,0 +1,427 @@
+[
+  {
+    "job": {
+      "id": "140b346ed450a0b20nF_3Ny6EVRT",
+      "title": "AI视频数据项目经理（北京/深圳）",
+      "company": "腾讯",
+      "companyId": "64bfe11d3d8b5b6e1XV629u4F1A~",
+      "location": "北京·海淀区·上地",
+      "salary": "30-60K·15薪",
+      "tags": [
+        "3-5年",
+        "本科"
+      ],
+      "statusIconAlt": ""
+    },
+    "searchCity": "北京",
+    "searchPositionId": "130121",
+    "salaryId": "407",
+    "searchDistrictId": "101010100",
+    "_configName": "北京406-260925",
+    "_keyword": "数据标注_AI训练师",
+    "queryIndex": 0,
+    "salaryBelowMin": true,
+    "updatedAt": 1790403202190,
+    "organizeStatus": "规模企业"
+  },
+  {
+    "job": {
+      "id": "14a5fe73e381d7f60nF-2dm0ElJW",
+      "title": "音频美学专家-【可灵AI专项】",
+      "company": "快手",
+      "companyId": "480261c022ea03d81nV53tQ~",
+      "location": "北京·海淀区·上地",
+      "salary": "30-60K·16薪",
+      "tags": [
+        "经验不限",
+        "本科"
+      ],
+      "statusIconAlt": ""
+    },
+    "searchCity": "北京",
+    "searchPositionId": "130121",
+    "salaryId": "407",
+    "searchDistrictId": "101010100",
+    "_configName": "北京406-260925",
+    "_keyword": "数据标注_AI训练师",
+    "queryIndex": 0,
+    "salaryBelowMin": true,
+    "updatedAt": 1790403211795,
+    "organizeStatus": "薪资下限"
+  },
+  {
+    "job": {
+      "id": "3367d33dd1d8b39e0nV429-0ElZW",
+      "title": "深度学习推理优化-异构计算方向",
+      "company": "北京某中型互联网公司",
+      "companyId": "",
+      "location": "北京",
+      "salary": "35-65K·16薪",
+      "tags": [
+        "3-5年",
+        "本科"
+      ],
+      "statusIconAlt": "猎头职位"
+    },
+    "searchCity": "北京",
+    "searchPositionId": "130121",
+    "salaryId": "407",
+    "searchDistrictId": "101010100",
+    "_configName": "北京406-260925",
+    "_keyword": "数据标注_AI训练师",
+    "queryIndex": 0,
+    "salaryBelowMin": true,
+    "updatedAt": 1790403232328,
+    "organizeStatus": "外包招聘"
+  },
+  {
+    "job": {
+      "id": "39b03fd8ba0e098d0nFz29u_E1VY",
+      "title": "数据项目经理",
+      "company": "Meshy AI",
+      "companyId": "5f271dfe9e32c7551n1-3ty6FVY~",
+      "location": "北京",
+      "salary": "20-40K·14薪",
+      "tags": [
+        "3-5年",
+        "本科"
+      ],
+      "statusIconAlt": ""
+    },
+    "searchCity": "北京",
+    "searchPositionId": "130121",
+    "salaryId": "406",
+    "searchDistrictId": "101010100",
+    "_configName": "北京406-260925",
+    "_keyword": "数据标注_AI训练师",
+    "queryIndex": 0,
+    "salaryBelowMin": true,
+    "updatedAt": 1790403103981,
+    "organizeStatus": "技能不符"
+  },
+  {
+    "job": {
+      "id": "41d209bbec4b796b0nFz3Nu0F1NV",
+      "title": "大模型评测工程师（数据评测与合成）",
+      "company": "某中型AI基础架构与数据智能平台公司",
+      "companyId": "",
+      "location": "北京",
+      "salary": "20-40K",
+      "tags": [
+        "3-5年",
+        "本科"
+      ],
+      "statusIconAlt": "猎头职位"
+    },
+    "searchCity": "北京",
+    "searchPositionId": "130121",
+    "salaryId": "406",
+    "searchDistrictId": "101010100",
+    "_configName": "北京406-260925",
+    "_keyword": "数据标注_AI训练师",
+    "queryIndex": 0,
+    "salaryBelowMin": true,
+    "updatedAt": 1790403103987,
+    "organizeStatus": "外包招聘"
+  },
+  {
+    "job": {
+      "id": "4d61552e9668498b0nB_39W_EVpZ",
+      "title": "AI Agent 训练/优化工程师",
+      "company": "斗转智影",
+      "companyId": "d6f4a60c50be821503d93dq5E1Y~",
+      "location": "北京·朝阳区·西坝河",
+      "salary": "25-50K",
+      "tags": [
+        "1-3年",
+        "本科"
+      ],
+      "statusIconAlt": ""
+    },
+    "searchCity": "北京",
+    "searchPositionId": "130121",
+    "salaryId": "406",
+    "searchDistrictId": "101010100",
+    "_configName": "北京406-260925",
+    "_keyword": "数据标注_AI训练师",
+    "queryIndex": 0,
+    "salaryBelowMin": true,
+    "updatedAt": 1790403104187,
+    "organizeStatus": "招呼未回"
+  },
+  {
+    "job": {
+      "id": "50a75bde73db5c940nF82N-5F1NX",
+      "title": "大模型数据/评测工程师",
+      "company": "创鑫激光",
+      "companyId": "99b584bcbeb75ad203B82ty_E1U~",
+      "location": "北京·海淀区·学院路",
+      "salary": "25-50K·15薪",
+      "tags": [
+        "3-5年",
+        "本科"
+      ],
+      "statusIconAlt": ""
+    },
+    "searchCity": "北京",
+    "searchPositionId": "130121",
+    "salaryId": "406",
+    "searchDistrictId": "101010100",
+    "_configName": "北京406-260925",
+    "_keyword": "数据标注_AI训练师",
+    "queryIndex": 0,
+    "salaryBelowMin": true,
+    "updatedAt": 1790403104221,
+    "organizeStatus": "行业不符"
+  },
+  {
+    "job": {
+      "id": "5326f039ae50e0880nJ52tq7E1RW",
+      "title": "数据闭环工程师",
+      "company": "某大型家用电器公司",
+      "companyId": "",
+      "location": "北京",
+      "salary": "30-50K",
+      "tags": [
+        "3-5年",
+        "本科"
+      ],
+      "statusIconAlt": "猎头职位"
+    },
+    "searchCity": "北京",
+    "searchPositionId": "130121",
+    "salaryId": "406",
+    "searchDistrictId": "101010100",
+    "_configName": "北京406-260925",
+    "_keyword": "数据标注_AI训练师",
+    "queryIndex": 0,
+    "salaryBelowMin": true,
+    "updatedAt": 1790403104292,
+    "organizeStatus": "外包招聘"
+  },
+  {
+    "job": {
+      "id": "597ba2cb17f54a4e0nF_3tq4ElBV",
+      "title": "视频数据评测专家POC",
+      "company": "某知名互联网公司",
+      "companyId": "",
+      "location": "北京",
+      "salary": "25-50K·15薪",
+      "tags": [
+        "3-5年",
+        "本科"
+      ],
+      "statusIconAlt": "猎头职位"
+    },
+    "searchCity": "北京",
+    "searchPositionId": "130121",
+    "salaryId": "406",
+    "searchDistrictId": "101010100",
+    "_configName": "北京406-260925",
+    "_keyword": "数据标注_AI训练师",
+    "queryIndex": 0,
+    "salaryBelowMin": true,
+    "updatedAt": 1790403104300,
+    "organizeStatus": "学历不符"
+  },
+  {
+    "job": {
+      "id": "61cca9d814179ef10nJ72Nu7FlZQ",
+      "title": "智能质检运营专家",
+      "company": "字节跳动",
+      "companyId": "f409f37f83a6135b0nV_2d25EA~~",
+      "location": "北京·海淀区·中关村",
+      "salary": "20-35K·15薪",
+      "tags": [
+        "1-3年",
+        "本科"
+      ],
+      "statusIconAlt": ""
+    },
+    "searchCity": "北京",
+    "searchPositionId": "130121",
+    "salaryId": "406",
+    "searchDistrictId": "101010100",
+    "_configName": "北京406-260925",
+    "_keyword": "数据标注_AI训练师",
+    "queryIndex": 0,
+    "salaryBelowMin": true,
+    "updatedAt": 1790403104313,
+    "organizeStatus": "HR离线30d"
+  },
+  {
+    "job": {
+      "id": "6f3c1e79e4368cf50nN909S9GFRT",
+      "title": "数据采集运营负责人",
+      "company": "北京某小型人工智能公司",
+      "companyId": "",
+      "location": "北京",
+      "salary": "30-60K·15薪",
+      "tags": [
+        "5-10年",
+        "本科"
+      ],
+      "statusIconAlt": "猎头职位"
+    },
+    "searchCity": "北京",
+    "searchPositionId": "130121",
+    "salaryId": "407",
+    "searchDistrictId": "101010100",
+    "_configName": "北京406-260925",
+    "_keyword": "数据标注_AI训练师",
+    "queryIndex": 0,
+    "salaryBelowMin": true,
+    "updatedAt": 1790403222194,
+    "organizeStatus": "外包招聘"
+  },
+  {
+    "job": {
+      "id": "a2b512a462d119d80nN53d21FVJT",
+      "title": "视频基座模型-模型数据运营专家（美学向）",
+      "company": "某互联网公司",
+      "companyId": "",
+      "location": "北京",
+      "salary": "23-40K·14薪",
+      "tags": [
+        "1-3年",
+        "本科"
+      ],
+      "statusIconAlt": "猎头职位"
+    },
+    "searchCity": "北京",
+    "searchPositionId": "130121",
+    "salaryId": "406",
+    "searchDistrictId": "101010100",
+    "_configName": "北京406-260925",
+    "_keyword": "数据标注_AI训练师",
+    "queryIndex": 0,
+    "salaryBelowMin": true,
+    "updatedAt": 1790403104327,
+    "organizeStatus": "外包招聘"
+  },
+  {
+    "job": {
+      "id": "a969a3ca0f346cfc0ndy2dm0ElpX",
+      "title": "数据工程师-世界模型方向（可接受应届）",
+      "company": "智源人工智能研究院",
+      "companyId": "bd344652caf0c6b803Z93dW9GQ~~",
+      "location": "北京·海淀区·学院路",
+      "salary": "25-40K·15薪",
+      "tags": [
+        "经验不限",
+        "本科"
+      ],
+      "statusIconAlt": ""
+    },
+    "searchCity": "北京",
+    "searchPositionId": "130121",
+    "salaryId": "406",
+    "searchDistrictId": "101010100",
+    "_configName": "北京406-260925",
+    "_keyword": "数据标注_AI训练师",
+    "queryIndex": 0,
+    "salaryBelowMin": true,
+    "updatedAt": 1790403104332,
+    "organizeStatus": "薪资下限"
+  },
+  {
+    "job": {
+      "id": "c2d74640a54616790nN_3dy4FVZT",
+      "title": "大模型数据质检评估工程师Code/Agent 方向",
+      "company": "百度",
+      "companyId": "ab9fdc6f043679990HY~",
+      "location": "北京·海淀区·上地",
+      "salary": "30-60K",
+      "tags": [
+        "3-5年",
+        "本科"
+      ],
+      "statusIconAlt": ""
+    },
+    "searchCity": "北京",
+    "searchPositionId": "130121",
+    "salaryId": "406",
+    "searchDistrictId": "101010100",
+    "_configName": "北京406-260925",
+    "_keyword": "数据标注_AI训练师",
+    "queryIndex": 0,
+    "salaryBelowMin": true,
+    "updatedAt": 1790403104338,
+    "organizeStatus": "HR离线30d"
+  },
+  {
+    "job": {
+      "id": "ca1702fd439d746c0nBy2968GFBU",
+      "title": "数据PM-标注(A22952)",
+      "company": "北京酷睿程科技",
+      "companyId": "cd74388d53e6c9c01HV839m-F1Y~",
+      "location": "北京·海淀区·西北旺",
+      "salary": "30-40K·16薪",
+      "tags": [
+        "3-5年",
+        "本科"
+      ],
+      "statusIconAlt": ""
+    },
+    "searchCity": "北京",
+    "searchPositionId": "130121",
+    "salaryId": "406",
+    "searchDistrictId": "101010100",
+    "_configName": "北京406-260925",
+    "_keyword": "数据标注_AI训练师",
+    "queryIndex": 0,
+    "salaryBelowMin": true,
+    "updatedAt": 1790403104344,
+    "organizeStatus": "薪资下限"
+  },
+  {
+    "job": {
+      "id": "d2c4be5288f73e440nF909-9FlVT",
+      "title": "【27届秋招】AI模型评测",
+      "company": "华为技术有限公司",
+      "companyId": "21124e51a5ea83a80nR80ti8",
+      "location": "北京·海淀区·西北旺",
+      "salary": "20-40K",
+      "tags": [
+        "在校/应届",
+        "本科"
+      ],
+      "statusIconAlt": ""
+    },
+    "searchCity": "北京",
+    "searchPositionId": "130121",
+    "salaryId": "406",
+    "searchDistrictId": "101010100",
+    "_configName": "北京406-260925",
+    "_keyword": "数据标注_AI训练师",
+    "queryIndex": 0,
+    "salaryBelowMin": true,
+    "updatedAt": 1790403104349,
+    "organizeStatus": "技能不符"
+  },
+  {
+    "job": {
+      "id": "ed7cbbf068e1324a0nN70tq1GFZU",
+      "title": "数据标注负责人",
+      "company": "北京某中型汽车研发/制造公司",
+      "companyId": "",
+      "location": "北京",
+      "salary": "40-70K·16薪",
+      "tags": [
+        "10年以上",
+        "本科"
+      ],
+      "statusIconAlt": "猎头职位"
+    },
+    "searchCity": "北京",
+    "searchPositionId": "130121",
+    "salaryId": "407",
+    "searchDistrictId": "101010100",
+    "_configName": "北京406-260925",
+    "_keyword": "数据标注_AI训练师",
+    "queryIndex": 0,
+    "salaryBelowMin": false,
+    "updatedAt": 1790403192187,
+    "organizeStatus": "外包招聘"
+  }
+]

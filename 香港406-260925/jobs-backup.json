@@ -1,0 +1,27 @@
+[
+  {
+    "job": {
+      "id": "b6bdf288841905320nd439m-FlFT",
+      "title": "数据标注/AI训练师实习生",
+      "company": "旭珑商顾",
+      "companyId": "a233b3cba4fefe681XN_3d-1FVQ~",
+      "location": "香港",
+      "salary": "20-30K",
+      "tags": [
+        "经验不限",
+        "本科"
+      ],
+      "statusIconAlt": ""
+    },
+    "searchCity": "香港",
+    "searchPositionId": "130121",
+    "salaryId": "406",
+    "searchDistrictId": "101320300",
+    "_configName": "香港406-260925",
+    "_keyword": "数据标注_AI训练师",
+    "queryIndex": 0,
+    "salaryBelowMin": true,
+    "updatedAt": 1790407479610,
+    "organizeStatus": "薪资下限"
+  }
+]

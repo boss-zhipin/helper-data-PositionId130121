@@ -1,0 +1,52 @@
+[
+  {
+    "job": {
+      "id": "07d73900150da6ee0nN43ty7GVRQ",
+      "title": "产品经理-模型标注平台（J103509）",
+      "company": "百度",
+      "companyId": "ab9fdc6f043679990HY~",
+      "location": "珠海·香洲区·横琴",
+      "salary": "20-30K·16薪",
+      "tags": [
+        "3-5年",
+        "本科"
+      ],
+      "statusIconAlt": ""
+    },
+    "searchCity": "珠海",
+    "searchPositionId": "130121",
+    "salaryId": "406",
+    "searchDistrictId": "101280700",
+    "_configName": "珠海406-260925",
+    "_keyword": "数据标注_AI训练师",
+    "queryIndex": 0,
+    "salaryBelowMin": true,
+    "updatedAt": 1790407763093,
+    "organizeStatus": "HR离线30d"
+  },
+  {
+    "job": {
+      "id": "7c65689e0304e4660nZ839W0EVVT",
+      "title": "AI项目负责人",
+      "company": "合肥松数科技有限...",
+      "companyId": "a8bec9562dd9ef8f0Hxy2NS-FQ~~",
+      "location": "珠海·香洲区·横琴",
+      "salary": "13-22K",
+      "tags": [
+        "3-5年",
+        "本科"
+      ],
+      "statusIconAlt": ""
+    },
+    "searchCity": "珠海",
+    "searchPositionId": "130121",
+    "salaryId": "406",
+    "searchDistrictId": "101280700",
+    "_configName": "珠海406-260925",
+    "_keyword": "数据标注_AI训练师",
+    "queryIndex": 0,
+    "salaryBelowMin": true,
+    "updatedAt": 1790407763246,
+    "organizeStatus": "薪资下限"
+  }
+]

@@ -1,0 +1,824 @@
+[
+  {
+    "job": {
+      "id": "0caaa35079754a0e0nV53d26EFZX",
+      "title": "大模型测试工程师",
+      "company": "星河智联",
+      "companyId": "10d013316fc157981nd-3ty8GFY~",
+      "location": "广州·海珠区·琶洲",
+      "salary": "15-28K·15薪",
+      "tags": [
+        "经验不限",
+        "本科"
+      ],
+      "statusIconAlt": ""
+    },
+    "searchCity": "广州",
+    "searchPositionId": "130121",
+    "salaryId": "406",
+    "searchDistrictId": "101280100",
+    "_configName": "广州406-260925",
+    "_keyword": "数据标注_AI训练师",
+    "queryIndex": 0,
+    "salaryBelowMin": true,
+    "updatedAt": 1790404444933,
+    "organizeStatus": "薪资下限"
+  },
+  {
+    "job": {
+      "id": "172d7e76e20afdcd0nN829W5FlpV",
+      "title": "AI训练师|上传图片 短视频素材AI生成成品",
+      "company": "广州番禺省团之家",
+      "companyId": "c1e6b8d404f3883e03B62tS0GVo~",
+      "location": "广州·番禺区·钟村",
+      "salary": "20-40K",
+      "tags": [
+        "经验不限",
+        "学历不限"
+      ],
+      "statusIconAlt": ""
+    },
+    "searchCity": "广州",
+    "searchPositionId": "130121",
+    "salaryId": "406",
+    "searchDistrictId": "101280100",
+    "_configName": "广州406-260925",
+    "_keyword": "数据标注_AI训练师",
+    "queryIndex": 0,
+    "salaryBelowMin": true,
+    "updatedAt": 1790404446406,
+    "organizeStatus": "薪资下限"
+  },
+  {
+    "job": {
+      "id": "196a302130c360a70nJ63dS5EVpV",
+      "title": "AI训练师（游戏行业 正编）",
+      "company": "途游游戏",
+      "companyId": "2914dcae4431873e1nx_3t21ElY~",
+      "location": "广州·海珠区·琶洲",
+      "salary": "11-22K·13薪",
+      "tags": [
+        "1-3年",
+        "本科"
+      ],
+      "statusIconAlt": ""
+    },
+    "searchCity": "广州",
+    "searchPositionId": "130121",
+    "salaryId": "406",
+    "searchDistrictId": "101280100",
+    "_configName": "广州406-260925",
+    "_keyword": "数据标注_AI训练师",
+    "queryIndex": 0,
+    "salaryBelowMin": true,
+    "updatedAt": 1790404447511,
+    "organizeStatus": "行业不符"
+  },
+  {
+    "job": {
+      "id": "20de435767de769a0nFy0t-1FVNS",
+      "title": "知识库运营工程师（AI方向）",
+      "company": "中大咨询",
+      "companyId": "8b4991273bb914891nB739u_F1Y~",
+      "location": "广州·海珠区·工业大道",
+      "salary": "15-25K",
+      "tags": [
+        "1-3年",
+        "本科"
+      ],
+      "statusIconAlt": ""
+    },
+    "searchCity": "广州",
+    "searchPositionId": "130121",
+    "salaryId": "406",
+    "searchDistrictId": "101280100",
+    "_configName": "广州406-260925",
+    "_keyword": "数据标注_AI训练师",
+    "queryIndex": 0,
+    "salaryBelowMin": true,
+    "updatedAt": 1790404447602,
+    "organizeStatus": "薪资下限"
+  },
+  {
+    "job": {
+      "id": "277a199ef6d9160e0nN53d-7GVRU",
+      "title": "招人｜企业 AI 知识库架构与 RAG 检索优化",
+      "company": "广州羽淼白品牌管理",
+      "companyId": "3c7d8f191d6647d103B429-4GFI~",
+      "location": "广州·白云区·嘉禾",
+      "salary": "35-40K",
+      "tags": [
+        "1-3年",
+        "本科"
+      ],
+      "statusIconAlt": ""
+    },
+    "searchCity": "广州",
+    "searchPositionId": "130121",
+    "salaryId": "406",
+    "searchDistrictId": "101280100",
+    "_configName": "广州406-260925",
+    "_keyword": "数据标注_AI训练师",
+    "queryIndex": 0,
+    "salaryBelowMin": true,
+    "updatedAt": 1790404447615,
+    "organizeStatus": "薪资下限"
+  },
+  {
+    "job": {
+      "id": "2c801368435a5dff0nZ93tS_EFpZ",
+      "title": "微信-AIGC美学设计师",
+      "company": "腾讯",
+      "companyId": "64bfe11d3d8b5b6e1XV629u4F1A~",
+      "location": "广州·海珠区·琶洲",
+      "salary": "40-60K·15薪",
+      "tags": [
+        "1-3年",
+        "学历不限"
+      ],
+      "statusIconAlt": ""
+    },
+    "searchCity": "广州",
+    "searchPositionId": "130121",
+    "salaryId": "407",
+    "searchDistrictId": "101280100",
+    "_configName": "广州406-260925",
+    "_keyword": "数据标注_AI训练师",
+    "queryIndex": 0,
+    "salaryBelowMin": false,
+    "updatedAt": 1790404536874,
+    "organizeStatus": "规模企业"
+  },
+  {
+    "job": {
+      "id": "368fd36f6c272dc90nN53d-9FlpX",
+      "title": "招人｜企业 AI 应用落地（工具派）",
+      "company": "广州羽淼白品牌管理",
+      "companyId": "3c7d8f191d6647d103B429-4GFI~",
+      "location": "广州·白云区·嘉禾",
+      "salary": "30-35K",
+      "tags": [
+        "1-3年",
+        "本科"
+      ],
+      "statusIconAlt": ""
+    },
+    "searchCity": "广州",
+    "searchPositionId": "130121",
+    "salaryId": "406",
+    "searchDistrictId": "101280100",
+    "_configName": "广州406-260925",
+    "_keyword": "数据标注_AI训练师",
+    "queryIndex": 0,
+    "salaryBelowMin": true,
+    "updatedAt": 1790404447677,
+    "organizeStatus": "薪资下限"
+  },
+  {
+    "job": {
+      "id": "3db2e98ca3428c990nN60tu5FlJR",
+      "title": "首席数据科学家 CDS",
+      "company": "某小型游戏公司",
+      "companyId": "",
+      "location": "广州",
+      "salary": "140-180K",
+      "tags": [
+        "10年以上",
+        "博士"
+      ],
+      "statusIconAlt": "猎头职位"
+    },
+    "searchCity": "广州",
+    "searchPositionId": "130121",
+    "salaryId": "407",
+    "searchDistrictId": "101280100",
+    "_configName": "广州406-260925",
+    "_keyword": "数据标注_AI训练师",
+    "queryIndex": 0,
+    "salaryBelowMin": false,
+    "updatedAt": 1790404546901,
+    "organizeStatus": "外包招聘"
+  },
+  {
+    "job": {
+      "id": "4bf3fc91ee6ec1520nN83t-7ElVW",
+      "title": "AI智能体搭建专员",
+      "company": "新美聚网络",
+      "companyId": "756cabd94fe3f5e703x93dS6GVU~",
+      "location": "广州·番禺区·大石",
+      "salary": "11-22K",
+      "tags": [
+        "1-3年",
+        "本科"
+      ],
+      "statusIconAlt": ""
+    },
+    "searchCity": "广州",
+    "searchPositionId": "130121",
+    "salaryId": "406",
+    "searchDistrictId": "101280100",
+    "_configName": "广州406-260925",
+    "_keyword": "数据标注_AI训练师",
+    "queryIndex": 0,
+    "salaryBelowMin": true,
+    "updatedAt": 1790404447682,
+    "organizeStatus": "薪资下限"
+  },
+  {
+    "job": {
+      "id": "50c17ab152a3c4020nJ-2d69EFFW",
+      "title": "AI落地工程师/流程优化落地/双休",
+      "company": "美神生物科技有限公司",
+      "companyId": "a3bac8688add9aa31nJ62dm7GFo~",
+      "location": "广州·海珠区·官洲",
+      "salary": "13-26K",
+      "tags": [
+        "1-3年",
+        "本科"
+      ],
+      "statusIconAlt": ""
+    },
+    "searchCity": "广州",
+    "searchPositionId": "130121",
+    "salaryId": "406",
+    "searchDistrictId": "101280100",
+    "_configName": "广州406-260925",
+    "_keyword": "数据标注_AI训练师",
+    "queryIndex": 0,
+    "salaryBelowMin": true,
+    "updatedAt": 1790404447685,
+    "organizeStatus": "薪资下限"
+  },
+  {
+    "job": {
+      "id": "54c76ed3b78520d70nF92dW1FVRZ",
+      "title": "高级标注项目经理",
+      "company": "天津某大型互联网公司",
+      "companyId": "",
+      "location": "广州",
+      "salary": "20-21K·15薪",
+      "tags": [
+        "3-5年",
+        "本科"
+      ],
+      "statusIconAlt": "猎头职位"
+    },
+    "searchCity": "广州",
+    "searchPositionId": "130121",
+    "salaryId": "406",
+    "searchDistrictId": "101280100",
+    "_configName": "广州406-260925",
+    "_keyword": "数据标注_AI训练师",
+    "queryIndex": 0,
+    "salaryBelowMin": true,
+    "updatedAt": 1790404447688,
+    "organizeStatus": "外包招聘"
+  },
+  {
+    "job": {
+      "id": "584c8d0cae6154180nJ-09-0ElpW",
+      "title": "数据标注工程师",
+      "company": "广汽集团",
+      "companyId": "72ca5ab717f63bf20n163dm7FQ~~",
+      "location": "广州",
+      "salary": "20-40K",
+      "tags": [
+        "3-5年",
+        "本科"
+      ],
+      "statusIconAlt": ""
+    },
+    "searchCity": "广州",
+    "searchPositionId": "130121",
+    "salaryId": "406",
+    "searchDistrictId": "101280100",
+    "_configName": "广州406-260925",
+    "_keyword": "数据标注_AI训练师",
+    "queryIndex": 0,
+    "salaryBelowMin": true,
+    "updatedAt": 1790404447862,
+    "organizeStatus": "薪资下限"
+  },
+  {
+    "job": {
+      "id": "5a66ab3f383f62ee0nd539m4GFFT",
+      "title": "ai工具训练师",
+      "company": "无添加化妆品",
+      "companyId": "e02d11fb509a61901HJ-2tS5",
+      "location": "广州·黄埔区·南岗",
+      "salary": "24-30K",
+      "tags": [
+        "1-3年",
+        "本科"
+      ],
+      "statusIconAlt": ""
+    },
+    "searchCity": "广州",
+    "searchPositionId": "130121",
+    "salaryId": "406",
+    "searchDistrictId": "101280100",
+    "_configName": "广州406-260925",
+    "_keyword": "数据标注_AI训练师",
+    "queryIndex": 0,
+    "salaryBelowMin": true,
+    "updatedAt": 1790404447911,
+    "organizeStatus": "薪资下限"
+  },
+  {
+    "job": {
+      "id": "5eb082d9c31c32270nF83dm-FVRS",
+      "title": "云雀-视频标注验收PM（广州&成都）",
+      "company": "腾讯",
+      "companyId": "64bfe11d3d8b5b6e1XV629u4F1A~",
+      "location": "广州·番禺区·大石",
+      "salary": "14-28K·13薪",
+      "tags": [
+        "1-3年",
+        "本科"
+      ],
+      "statusIconAlt": ""
+    },
+    "searchCity": "广州",
+    "searchPositionId": "130121",
+    "salaryId": "406",
+    "searchDistrictId": "101280100",
+    "_configName": "广州406-260925",
+    "_keyword": "数据标注_AI训练师",
+    "queryIndex": 0,
+    "salaryBelowMin": true,
+    "updatedAt": 1790404447925,
+    "organizeStatus": "规模企业"
+  },
+  {
+    "job": {
+      "id": "65bbb2f1348e6b080nJ52d67FlpQ",
+      "title": "科研AI智能体讲师（兼职不坐班、不打卡）",
+      "company": "医康达生物科技",
+      "companyId": "328f3d392596b0ad1n183ti7GVI~",
+      "location": "广州·番禺区·市桥",
+      "salary": "13-26K",
+      "tags": [
+        "经验不限",
+        "硕士"
+      ],
+      "statusIconAlt": ""
+    },
+    "searchCity": "广州",
+    "searchPositionId": "130121",
+    "salaryId": "406",
+    "searchDistrictId": "101280100",
+    "_configName": "广州406-260925",
+    "_keyword": "数据标注_AI训练师",
+    "queryIndex": 0,
+    "salaryBelowMin": true,
+    "updatedAt": 1790404447938,
+    "organizeStatus": "薪资下限"
+  },
+  {
+    "job": {
+      "id": "67733b35a43919630nN83Nu9E1RY",
+      "title": "知识治理专家",
+      "company": "东风日产数据服务",
+      "companyId": "8e74d6015c083c450nBz2du9Fw~~",
+      "location": "广州·花都区·铁路西",
+      "salary": "30-45K",
+      "tags": [
+        "5-10年",
+        "本科"
+      ],
+      "statusIconAlt": ""
+    },
+    "searchCity": "广州",
+    "searchPositionId": "130121",
+    "salaryId": "406",
+    "searchDistrictId": "101280100",
+    "_configName": "广州406-260925",
+    "_keyword": "数据标注_AI训练师",
+    "queryIndex": 0,
+    "salaryBelowMin": true,
+    "updatedAt": 1790404447958,
+    "organizeStatus": "薪资下限"
+  },
+  {
+    "job": {
+      "id": "723f79c47e594fe10nB72ty_GFpS",
+      "title": "AI工程师(J10407)",
+      "company": "歌莉娅",
+      "companyId": "6f7c74de4b66b3411nN93tu7Fw~~",
+      "location": "广州·白云区·嘉禾",
+      "salary": "18-35K",
+      "tags": [
+        "1-3年",
+        "本科"
+      ],
+      "statusIconAlt": ""
+    },
+    "searchCity": "广州",
+    "searchPositionId": "130121",
+    "salaryId": "406",
+    "searchDistrictId": "101280100",
+    "_configName": "广州406-260925",
+    "_keyword": "数据标注_AI训练师",
+    "queryIndex": 0,
+    "salaryBelowMin": true,
+    "updatedAt": 1790404447969,
+    "organizeStatus": "薪资下限"
+  },
+  {
+    "job": {
+      "id": "856864d0d151ed740nd_39q9FVRZ",
+      "title": "高级AI工程师（双休+五险一金）",
+      "company": "广州佳途科技股份...",
+      "companyId": "66940e51ae12698f1nBy09y5GFE~",
+      "location": "广州·黄埔区·科学城",
+      "salary": "15-30K",
+      "tags": [
+        "5-10年",
+        "本科"
+      ],
+      "statusIconAlt": ""
+    },
+    "searchCity": "广州",
+    "searchPositionId": "130121",
+    "salaryId": "406",
+    "searchDistrictId": "101280100",
+    "_configName": "广州406-260925",
+    "_keyword": "数据标注_AI训练师",
+    "queryIndex": 0,
+    "salaryBelowMin": true,
+    "updatedAt": 1790404447975,
+    "organizeStatus": "薪资下限"
+  },
+  {
+    "job": {
+      "id": "8876493a3f724d890nN-0tW9ElNY",
+      "title": "外呼AI训练师（运营商/语音调优）",
+      "company": "广州某中型通信/网络设备公司",
+      "companyId": "",
+      "location": "广州",
+      "salary": "20-21K",
+      "tags": [
+        "3-5年",
+        "大专"
+      ],
+      "statusIconAlt": "猎头职位"
+    },
+    "searchCity": "广州",
+    "searchPositionId": "130121",
+    "salaryId": "406",
+    "searchDistrictId": "101280100",
+    "_configName": "广州406-260925",
+    "_keyword": "数据标注_AI训练师",
+    "queryIndex": 0,
+    "salaryBelowMin": true,
+    "updatedAt": 1790404447977,
+    "organizeStatus": "外包招聘"
+  },
+  {
+    "job": {
+      "id": "912b630ea78bb65c0nN60tu-EFVQ",
+      "title": "Agentrix 平台总架构师",
+      "company": "某小型游戏公司",
+      "companyId": "",
+      "location": "广州",
+      "salary": "110-210K",
+      "tags": [
+        "10年以上",
+        "博士"
+      ],
+      "statusIconAlt": "猎头职位"
+    },
+    "searchCity": "广州",
+    "searchPositionId": "130121",
+    "salaryId": "407",
+    "searchDistrictId": "101280100",
+    "_configName": "广州406-260925",
+    "_keyword": "数据标注_AI训练师",
+    "queryIndex": 0,
+    "salaryBelowMin": false,
+    "updatedAt": 1790404527780,
+    "organizeStatus": "外包招聘"
+  },
+  {
+    "job": {
+      "id": "95be58757a62bf6f0nN-3tu7F1JX",
+      "title": "数据标注自驾事业部负责人",
+      "company": "核数聚",
+      "companyId": "ed8ee2bfba13562803Vy39u-FQ~~",
+      "location": "广州·黄埔区·东圃",
+      "salary": "35-65K",
+      "tags": [
+        "5-10年",
+        "本科"
+      ],
+      "statusIconAlt": ""
+    },
+    "searchCity": "广州",
+    "searchPositionId": "130121",
+    "salaryId": "407",
+    "searchDistrictId": "101280100",
+    "_configName": "广州406-260925",
+    "_keyword": "数据标注_AI训练师",
+    "queryIndex": 0,
+    "salaryBelowMin": true,
+    "updatedAt": 1790404496893,
+    "organizeStatus": "行业不符"
+  },
+  {
+    "job": {
+      "id": "9aef431797ac54150nN409u0E1FQ",
+      "title": "智能外呼AI训练师/AI语音训练师(偏语音调优",
+      "company": "广州某中型通信/网络设备公司",
+      "companyId": "",
+      "location": "广州",
+      "salary": "20-25K·13薪",
+      "tags": [
+        "3-5年",
+        "本科"
+      ],
+      "statusIconAlt": "猎头职位"
+    },
+    "searchCity": "广州",
+    "searchPositionId": "130121",
+    "salaryId": "406",
+    "searchDistrictId": "101280100",
+    "_configName": "广州406-260925",
+    "_keyword": "数据标注_AI训练师",
+    "queryIndex": 0,
+    "salaryBelowMin": true,
+    "updatedAt": 1790404447983,
+    "organizeStatus": "外包招聘"
+  },
+  {
+    "job": {
+      "id": "9e1d421ed3aa089d0nJ80t67EFJT",
+      "title": "售前经理（具身智能数据）",
+      "company": "凡拓数创",
+      "companyId": "6694a62028957dc903F839m1",
+      "location": "广州·天河区·棠下",
+      "salary": "20-35K",
+      "tags": [
+        "1-3年",
+        "本科"
+      ],
+      "statusIconAlt": ""
+    },
+    "searchCity": "广州",
+    "searchPositionId": "130121",
+    "salaryId": "406",
+    "searchDistrictId": "101280100",
+    "_configName": "广州406-260925",
+    "_keyword": "数据标注_AI训练师",
+    "queryIndex": 0,
+    "salaryBelowMin": true,
+    "updatedAt": 1790404447986,
+    "organizeStatus": "薪资下限"
+  },
+  {
+    "job": {
+      "id": "a25e9061d05b2c710nF42d20E1pU",
+      "title": "AI视频 标注项目经理(大厂正编+双休)",
+      "company": "天津某大型互联网内容安全与审核服务公司",
+      "companyId": "",
+      "location": "广州",
+      "salary": "15-25K·15薪",
+      "tags": [
+        "3-5年",
+        "本科"
+      ],
+      "statusIconAlt": "猎头职位"
+    },
+    "searchCity": "广州",
+    "searchPositionId": "130121",
+    "salaryId": "406",
+    "searchDistrictId": "101280100",
+    "_configName": "广州406-260925",
+    "_keyword": "数据标注_AI训练师",
+    "queryIndex": 0,
+    "salaryBelowMin": true,
+    "updatedAt": 1790404447989,
+    "organizeStatus": "外包招聘"
+  },
+  {
+    "job": {
+      "id": "a3302ff57544350c0nF40965FFBY",
+      "title": "AI Infra工程师",
+      "company": "某大型智能硬件公司",
+      "companyId": "",
+      "location": "广州",
+      "salary": "50-80K·14薪",
+      "tags": [
+        "1-3年",
+        "本科"
+      ],
+      "statusIconAlt": "猎头职位"
+    },
+    "searchCity": "广州",
+    "searchPositionId": "130121",
+    "salaryId": "407",
+    "searchDistrictId": "101280100",
+    "_configName": "广州406-260925",
+    "_keyword": "数据标注_AI训练师",
+    "queryIndex": 0,
+    "salaryBelowMin": false,
+    "updatedAt": 1790404506878,
+    "organizeStatus": "外包招聘"
+  },
+  {
+    "job": {
+      "id": "ab63dcee27ef1a9a0nBz0961EFRT",
+      "title": "具身智能数据总监",
+      "company": "钧泓数据",
+      "companyId": "631577fdf4ac64f803x-2ty0Els~",
+      "location": "广州·黄埔区·科学城",
+      "salary": "30-60K",
+      "tags": [
+        "5-10年",
+        "本科"
+      ],
+      "statusIconAlt": ""
+    },
+    "searchCity": "广州",
+    "searchPositionId": "130121",
+    "salaryId": "407",
+    "searchDistrictId": "101280100",
+    "_configName": "广州406-260925",
+    "_keyword": "数据标注_AI训练师",
+    "queryIndex": 0,
+    "salaryBelowMin": true,
+    "updatedAt": 1790404486894,
+    "organizeStatus": "行业不符"
+  },
+  {
+    "job": {
+      "id": "acb97afefa1c7a6d0nN52NS0FFFR",
+      "title": "首席人工智能官（CAIO）",
+      "company": "广州鲲界科技有限公司",
+      "companyId": "28f50f5271281f5203N93t64FlY~",
+      "location": "广州",
+      "salary": "25-35K",
+      "tags": [
+        "5-10年",
+        "本科"
+      ],
+      "statusIconAlt": ""
+    },
+    "searchCity": "广州",
+    "searchPositionId": "130121",
+    "salaryId": "406",
+    "searchDistrictId": "101280100",
+    "_configName": "广州406-260925",
+    "_keyword": "数据标注_AI训练师",
+    "queryIndex": 0,
+    "salaryBelowMin": true,
+    "updatedAt": 1790404448015,
+    "organizeStatus": "薪资下限"
+  },
+  {
+    "job": {
+      "id": "d11bd2e6211d90680nB80tq5GVdU",
+      "title": "数据/AI业务分析师",
+      "company": "兴趣岛",
+      "companyId": "7076551a1c77ea7e33J-29o~",
+      "location": "广州·天河区·棠下",
+      "salary": "25-35K",
+      "tags": [
+        "3-5年",
+        "学历不限"
+      ],
+      "statusIconAlt": ""
+    },
+    "searchCity": "广州",
+    "searchPositionId": "130121",
+    "salaryId": "406",
+    "searchDistrictId": "101280100",
+    "_configName": "广州406-260925",
+    "_keyword": "数据标注_AI训练师",
+    "queryIndex": 0,
+    "salaryBelowMin": true,
+    "updatedAt": 1790404448018,
+    "organizeStatus": "薪资下限"
+  },
+  {
+    "job": {
+      "id": "d42a0faedeaf6f7e0nN93ty8E1FS",
+      "title": "AI应用专家",
+      "company": "钱大妈",
+      "companyId": "f90ec87361e14e0f1HJz29u8",
+      "location": "广州·海珠区·凤阳",
+      "salary": "40-60K·14薪",
+      "tags": [
+        "5-10年",
+        "硕士",
+        "AI应用专家",
+        "AI应用落地",
+        "AI应用"
+      ],
+      "statusIconAlt": "",
+      "address": "广州海珠区广州创投小镇28栋",
+      "coordinates": "113.314621,23.074906",
+      "contactStatus": "立即沟通",
+      "isFriend": false,
+      "status": "最新",
+      "city": "广州",
+      "experience": "5-10年",
+      "education": "硕士",
+      "keywords": [
+        "AI应用专家",
+        "AI应用落地",
+        "AI应用"
+      ],
+      "detailSecText": "负责集团大模型 AI 应用落地，挖掘人力、供应链、运营、财务等业务场景，基于 RAG、AI Agent 完成企业知识库、业务智能助⼿⽅案设计、POC 验证、系统集成与上线推⼴；对业务降本提效结果负责，沉淀内部 AI 能力与案例，跟踪大模型前沿技术完成选型验证。\n任职要求：\n本科，3‑5 年⼤模型 AI 应用落地项目经验，熟悉 RAG、Agent、Dify/LangChain；会 Python 基础，做过真实上线业务项目；优秀跨部门沟通，能把业务痛点转化可落地 AI 方案；零售连锁行业经验优先。",
+      "detailSecHtml": "负责集团大模型 AI 应用落地，挖掘人力、供应链、运营、财务等业务场景，基于 RAG、AI Agent 完成企业知识库、业务智能助⼿⽅案设计、POC 验证、系统集成与上线推⼴；对业务降本提效结果负责，沉淀内部 AI 能力与案例，跟踪大模型前沿技术完成选型验证。<br>任职要求：<br>本科，3‑5 年⼤模型 AI 应用落地项目经验，熟悉 RAG、Agent、Dify/LangChain；会 Python 基础，做过真实上线业务项目；优秀跨部门沟通，能把业务痛点转化可落地 AI 方案；零售连锁行业经验优先。",
+      "bosses": [
+        {
+          "name": "胡女士",
+          "title": "招聘总监",
+          "updatedAt": "2026/9/28 08:18:14",
+          "avatar": "https://img.bosszhipin.com/beijin/mcs/useravatar/20180210/a11ba7a320ecdfbb44d7909eb9a38f702d5e7ec0b4aad985ec505e5e617c0507_s.jpg?x-oss-process=image/resize,w_100,limit_0",
+          "activeTime": "3日内活跃"
+        }
+      ],
+      "pageUpdateTime": "2026-09-26",
+      "detailText": "负责集团大模型 AI 应用落地，挖掘人力、供应链、运营、财务等业务场景，基于 RAG、AI Agent 完成企业知识库、业务智能助⼿⽅案设计、POC 验证、系统集成与上线推⼴；对业务降本提效结果负责，沉淀内部 AI 能力与案例，跟踪大模型前沿技术完成选型验证。\n任职要求：\n本科，3‑5 年⼤模型 AI 应用落地项目经验，熟悉 RAG、Agent、Dify/LangChain；会 Python 基础，做过真实上线业务项目；优秀跨部门沟通，能把业务痛点转化可落地 AI 方案；零售连锁行业经验优先。"
+    },
+    "searchCity": "广州",
+    "searchPositionId": "130121",
+    "salaryId": "407",
+    "searchDistrictId": "101280100",
+    "_configName": "广州406-260925",
+    "_keyword": "数据标注_AI训练师",
+    "queryIndex": 0,
+    "salaryBelowMin": false,
+    "updatedAt": 1790554694476,
+    "organizeStatus": "沟通未回",
+    "company": {
+      "name": "钱大妈",
+      "id": "f90ec87361e14e0f1HJz29u8",
+      "logo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20230629/7bf6f160950405e92d7320c8be1272b5ad113a1208c2cc0b51a7873e0909f8fb91c26f7acd360ef0.png",
+      "stage": "D轮及以上",
+      "scale": "1000-9999人",
+      "industry": "生活服务(O2O)",
+      "industryId": "100007",
+      "introduction": "钱大妈成立于2012年，经过十一年稳健运营、高速发展，已成为社区生鲜连锁品牌。曾获得荣获“2022全球独角兽企业500强”、“中国农业企业500强”、“中国连锁百强企业”、“广东省民营企业100强”、“中国独角兽企业”、“广东省重点农业龙头企业”等荣誉资质。\n\n作为“不卖隔夜肉”理念的主张者，钱大妈成立之初即从新鲜角度重新梳理传统生鲜行业的标准，对肉菜市场进行新的定义。通过尝试和验证“日清”模式，以及“定时打折”清货机制，坚定落实不隔夜销售!\n\n凭借卓越的运营管理能力，钱大妈从广东起步，深耕粤港澳大湾区，并逐步拓展至上海、武汉、长沙、成都、重庆、苏州、杭州、合肥、南京等全国各核心城市及潜力地区，全面践行“让每一餐都新鲜”的企业使命，为实现“全球卖菜”的企业愿景，匠心耕耘、砥砺前行。",
+      "businessInfo": {
+        "companyName": "广州市钱大妈农产品有限公司",
+        "legalRepresentative": "冯卫华",
+        "establishDate": "2014-05-16",
+        "type": "有限责任公司（港澳台法人独资）",
+        "status": "存续",
+        "capital": "82231.6502万人民币"
+      }
+    }
+  },
+  {
+    "job": {
+      "id": "dcbb4011ae94e3930nd82tu6F1tW",
+      "title": "AI工程师",
+      "company": "广州某大型消费电子制造出口公司",
+      "companyId": "",
+      "location": "广州",
+      "salary": "15-25K·13薪",
+      "tags": [
+        "1-3年",
+        "本科"
+      ],
+      "statusIconAlt": "猎头职位"
+    },
+    "searchCity": "广州",
+    "searchPositionId": "130121",
+    "salaryId": "406",
+    "searchDistrictId": "101280100",
+    "_configName": "广州406-260925",
+    "_keyword": "数据标注_AI训练师",
+    "queryIndex": 0,
+    "salaryBelowMin": true,
+    "updatedAt": 1790404448048,
+    "organizeStatus": "外包招聘"
+  },
+  {
+    "job": {
+      "id": "f180ddb8e3eb0b7e0nR82tW_F1FX",
+      "title": "数据标注主管",
+      "company": "小马智行",
+      "companyId": "eddd7b9ae049f14e1Xx_3965GVs~",
+      "location": "广州·南沙区·大岗",
+      "salary": "20-30K·16薪",
+      "tags": [
+        "5-10年",
+        "本科"
+      ],
+      "statusIconAlt": ""
+    },
+    "searchCity": "广州",
+    "searchPositionId": "130121",
+    "salaryId": "406",
+    "searchDistrictId": "101280100",
+    "_configName": "广州406-260925",
+    "_keyword": "数据标注_AI训练师",
+    "queryIndex": 0,
+    "salaryBelowMin": true,
+    "updatedAt": 1790404448051,
+    "organizeStatus": "薪资下限"
+  }
+]

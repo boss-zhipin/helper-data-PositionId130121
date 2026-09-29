@@ -1,0 +1,77 @@
+[
+  {
+    "job": {
+      "id": "4e45f34d3aae769f0nR62N6_F1RV",
+      "title": "量化员（无经验可培养）",
+      "company": "南京某大型半导体上市公司",
+      "companyId": "",
+      "location": "南京",
+      "salary": "15-30K",
+      "tags": [
+        "经验不限",
+        "学历不限"
+      ],
+      "statusIconAlt": "猎头职位"
+    },
+    "searchCity": "南京",
+    "searchPositionId": "130121",
+    "salaryId": "406",
+    "searchDistrictId": "101190100",
+    "_configName": "南京406-260925",
+    "_keyword": "数据标注_AI训练师",
+    "queryIndex": 0,
+    "salaryBelowMin": true,
+    "updatedAt": 1790405324410,
+    "organizeStatus": "外包招聘"
+  },
+  {
+    "job": {
+      "id": "ce95adbea24c1a350nJ53d6_F1VT",
+      "title": "2026年校园招聘",
+      "company": "华为",
+      "companyId": "02cd05cce753437e33V50w~~",
+      "location": "南京·雨花台区·软件大道",
+      "salary": "15-30K",
+      "tags": [
+        "在校/应届",
+        "本科"
+      ],
+      "statusIconAlt": ""
+    },
+    "searchCity": "南京",
+    "searchPositionId": "130121",
+    "salaryId": "406",
+    "searchDistrictId": "101190100",
+    "_configName": "南京406-260925",
+    "_keyword": "数据标注_AI训练师",
+    "queryIndex": 0,
+    "salaryBelowMin": true,
+    "updatedAt": 1790405324652,
+    "organizeStatus": "HR离线30d"
+  },
+  {
+    "job": {
+      "id": "f5ef8c886f50835a0nN52d-9GVtU",
+      "title": "ai应用工程师",
+      "company": "南京若驰未来科技",
+      "companyId": "afd24563e40cb69c03Bz3Nm7E1I~",
+      "location": "南京·鼓楼区·汉中路",
+      "salary": "15-25K",
+      "tags": [
+        "3-5年",
+        "本科"
+      ],
+      "statusIconAlt": ""
+    },
+    "searchCity": "南京",
+    "searchPositionId": "130121",
+    "salaryId": "406",
+    "searchDistrictId": "101190100",
+    "_configName": "南京406-260925",
+    "_keyword": "数据标注_AI训练师",
+    "queryIndex": 0,
+    "salaryBelowMin": true,
+    "updatedAt": 1790405325120,
+    "organizeStatus": "薪资下限"
+  }
+]

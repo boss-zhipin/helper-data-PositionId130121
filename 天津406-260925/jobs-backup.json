@@ -1,0 +1,302 @@
+[
+  {
+    "job": {
+      "id": "0d203bc6027d5ccf0nJz0ty-GFtT",
+      "title": "评测项目经理/质控（千问AI，base北京）",
+      "company": "阿里巴巴千问事业部",
+      "companyId": "19b7e3949cb97add03F42Nw~",
+      "location": "天津·滨海新区·北塘街",
+      "salary": "12-24K",
+      "tags": [
+        "1-3年",
+        "本科"
+      ],
+      "statusIconAlt": ""
+    },
+    "searchCity": "天津",
+    "searchPositionId": "130121",
+    "salaryId": "406",
+    "searchDistrictId": "101030100",
+    "_configName": "天津406-260925",
+    "_keyword": "数据标注_AI训练师",
+    "queryIndex": 0,
+    "salaryBelowMin": true,
+    "updatedAt": 1790407205935,
+    "organizeStatus": "薪资下限"
+  },
+  {
+    "job": {
+      "id": "1eac1e339d170def0nN_2ty_E1JR",
+      "title": "高级数据分析师（标注管理方向）(J12885)",
+      "company": "腾讯云雀",
+      "companyId": "4d849a524a7497e11n182N-0FVY~",
+      "location": "天津·南开区·天拖",
+      "salary": "17-30K·15薪",
+      "tags": [
+        "3-5年",
+        "本科"
+      ],
+      "statusIconAlt": ""
+    },
+    "searchCity": "天津",
+    "searchPositionId": "130121",
+    "salaryId": "406",
+    "searchDistrictId": "101030100",
+    "_configName": "天津406-260925",
+    "_keyword": "数据标注_AI训练师",
+    "queryIndex": 0,
+    "salaryBelowMin": true,
+    "updatedAt": 1790407206258,
+    "organizeStatus": "薪资下限"
+  },
+  {
+    "job": {
+      "id": "3ac053dcd982121a0nB42dS0E1NW",
+      "title": "大模型应用/训练",
+      "company": "天津某中型半导体/芯片上市公司",
+      "companyId": "",
+      "location": "天津",
+      "salary": "20-30K·15薪",
+      "tags": [
+        "3-5年",
+        "本科"
+      ],
+      "statusIconAlt": "猎头职位"
+    },
+    "searchCity": "天津",
+    "searchPositionId": "130121",
+    "salaryId": "406",
+    "searchDistrictId": "101030100",
+    "_configName": "天津406-260925",
+    "_keyword": "数据标注_AI训练师",
+    "queryIndex": 0,
+    "salaryBelowMin": true,
+    "updatedAt": 1790407206602,
+    "organizeStatus": "外包招聘"
+  },
+  {
+    "job": {
+      "id": "5508b3835e261a300nJz0ty5EFpY",
+      "title": "TTS评测项目经理（千问，base北京）",
+      "company": "阿里巴巴千问事业部",
+      "companyId": "19b7e3949cb97add03F42Nw~",
+      "location": "天津·滨海新区·北塘街",
+      "salary": "15-25K",
+      "tags": [
+        "1-3年",
+        "本科"
+      ],
+      "statusIconAlt": ""
+    },
+    "searchCity": "天津",
+    "searchPositionId": "130121",
+    "salaryId": "406",
+    "searchDistrictId": "101030100",
+    "_configName": "天津406-260925",
+    "_keyword": "数据标注_AI训练师",
+    "queryIndex": 0,
+    "salaryBelowMin": true,
+    "updatedAt": 1790407206633,
+    "organizeStatus": "薪资下限"
+  },
+  {
+    "job": {
+      "id": "62f47a34ae0998b20nN83dS-EVRW",
+      "title": "AI视频-业务质检（英语+互联网大厂正编）",
+      "company": "天津某大型互联网内容安全与审核服务公司",
+      "companyId": "",
+      "location": "天津",
+      "salary": "15-25K·15薪",
+      "tags": [
+        "1-3年",
+        "本科"
+      ],
+      "statusIconAlt": "猎头职位"
+    },
+    "searchCity": "天津",
+    "searchPositionId": "130121",
+    "salaryId": "406",
+    "searchDistrictId": "101030100",
+    "_configName": "天津406-260925",
+    "_keyword": "数据标注_AI训练师",
+    "queryIndex": 0,
+    "salaryBelowMin": true,
+    "updatedAt": 1790407206649,
+    "organizeStatus": "外包招聘"
+  },
+  {
+    "job": {
+      "id": "740390941b5e0ccc0nF93dW0GVdW",
+      "title": "AI视频数据评测【大平台+双休+正编】",
+      "company": "某大型计算机服务公司",
+      "companyId": "",
+      "location": "天津",
+      "salary": "15-25K",
+      "tags": [
+        "1-3年",
+        "本科"
+      ],
+      "statusIconAlt": "猎头职位"
+    },
+    "searchCity": "天津",
+    "searchPositionId": "130121",
+    "salaryId": "406",
+    "searchDistrictId": "101030100",
+    "_configName": "天津406-260925",
+    "_keyword": "数据标注_AI训练师",
+    "queryIndex": 0,
+    "salaryBelowMin": true,
+    "updatedAt": 1790407206687,
+    "organizeStatus": "外包招聘"
+  },
+  {
+    "job": {
+      "id": "a727e399188592420nN-2du8FVRW",
+      "title": "大模型审核组长",
+      "company": "某大型知名互联网上市公司",
+      "companyId": "",
+      "location": "天津",
+      "salary": "20-25K",
+      "tags": [
+        "经验不限",
+        "大专"
+      ],
+      "statusIconAlt": "猎头职位"
+    },
+    "searchCity": "天津",
+    "searchPositionId": "130121",
+    "salaryId": "406",
+    "searchDistrictId": "101030100",
+    "_configName": "天津406-260925",
+    "_keyword": "数据标注_AI训练师",
+    "queryIndex": 0,
+    "salaryBelowMin": true,
+    "updatedAt": 1790407206759,
+    "organizeStatus": "外包招聘"
+  },
+  {
+    "job": {
+      "id": "ad215648cf2ac98c0nF93Nq8F1BW",
+      "title": "AI训练师-视频模型评测（T2V/R2V)",
+      "company": "杭州某大型互联网电商平台上市公司",
+      "companyId": "",
+      "location": "天津",
+      "salary": "20-25K",
+      "tags": [
+        "经验不限",
+        "本科"
+      ],
+      "statusIconAlt": "猎头职位"
+    },
+    "searchCity": "天津",
+    "searchPositionId": "130121",
+    "salaryId": "406",
+    "searchDistrictId": "101030100",
+    "_configName": "天津406-260925",
+    "_keyword": "数据标注_AI训练师",
+    "queryIndex": 0,
+    "salaryBelowMin": true,
+    "updatedAt": 1790407206830,
+    "organizeStatus": "外包招聘"
+  },
+  {
+    "job": {
+      "id": "d9db78dde1255ac40nN42Nu8F1RS",
+      "title": "AI-3D动画-质检验收",
+      "company": "深圳某大型互联网公司",
+      "companyId": "",
+      "location": "天津",
+      "salary": "20-21K",
+      "tags": [
+        "1-3年",
+        "本科"
+      ],
+      "statusIconAlt": "猎头职位"
+    },
+    "searchCity": "天津",
+    "searchPositionId": "130121",
+    "salaryId": "406",
+    "searchDistrictId": "101030100",
+    "_configName": "天津406-260925",
+    "_keyword": "数据标注_AI训练师",
+    "queryIndex": 0,
+    "salaryBelowMin": true,
+    "updatedAt": 1790407207667,
+    "organizeStatus": "外包招聘"
+  },
+  {
+    "job": {
+      "id": "dff919602f36b82a0nJ93NS-ElNQ",
+      "title": "3D美术专家",
+      "company": "天津某大型电子商务公司",
+      "companyId": "",
+      "location": "天津",
+      "salary": "20-21K",
+      "tags": [
+        "1-3年",
+        "本科"
+      ],
+      "statusIconAlt": "猎头职位"
+    },
+    "searchCity": "天津",
+    "searchPositionId": "130121",
+    "salaryId": "406",
+    "searchDistrictId": "101030100",
+    "_configName": "天津406-260925",
+    "_keyword": "数据标注_AI训练师",
+    "queryIndex": 0,
+    "salaryBelowMin": true,
+    "updatedAt": 1790407207671,
+    "organizeStatus": "外包招聘"
+  },
+  {
+    "job": {
+      "id": "eb36bc9c339144af0nN80tq8ElFQ",
+      "title": "高级数据分析师（标注管理方向）(J12885)",
+      "company": "腾讯云雀",
+      "companyId": "4d849a524a7497e11n182N-0FVY~",
+      "location": "天津·南开区·天拖",
+      "salary": "17-30K·15薪",
+      "tags": [
+        "3-5年",
+        "本科"
+      ],
+      "statusIconAlt": ""
+    },
+    "searchCity": "天津",
+    "searchPositionId": "130121",
+    "salaryId": "406",
+    "searchDistrictId": "101030100",
+    "_configName": "天津406-260925",
+    "_keyword": "数据标注_AI训练师",
+    "queryIndex": 0,
+    "salaryBelowMin": true,
+    "updatedAt": 1790407207671,
+    "organizeStatus": "薪资下限"
+  },
+  {
+    "job": {
+      "id": "ffbc280178b219310nN92Nu4FltW",
+      "title": "评测项目经理（base 北京或杭州）",
+      "company": "阿里巴巴有限公司",
+      "companyId": "c832c601b8bf67bb03Z52N66FFc~",
+      "location": "天津·和平区·滨江道",
+      "salary": "12-24K",
+      "tags": [
+        "1-3年",
+        "本科"
+      ],
+      "statusIconAlt": "派遣"
+    },
+    "searchCity": "天津",
+    "searchPositionId": "130121",
+    "salaryId": "406",
+    "searchDistrictId": "101030100",
+    "_configName": "天津406-260925",
+    "_keyword": "数据标注_AI训练师",
+    "queryIndex": 0,
+    "salaryBelowMin": true,
+    "updatedAt": 1790407207672,
+    "organizeStatus": "薪资下限"
+  }
+]

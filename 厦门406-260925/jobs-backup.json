@@ -1,0 +1,152 @@
+[
+  {
+    "job": {
+      "id": "2150eafabf87a96f0nN-2dS6FlpT",
+      "title": "AI工程师（创作 Skills 方向）",
+      "company": "诸云科技",
+      "companyId": "7f7c70ca9d3492d61nd_3t64EVY~",
+      "location": "厦门·思明区·莲前",
+      "salary": "18-30K",
+      "tags": [
+        "1-3年",
+        "本科"
+      ],
+      "statusIconAlt": ""
+    },
+    "searchCity": "厦门",
+    "searchPositionId": "130121",
+    "salaryId": "406",
+    "searchDistrictId": "101230200",
+    "_configName": "厦门406-260925",
+    "_keyword": "数据标注_AI训练师",
+    "queryIndex": 0,
+    "salaryBelowMin": true,
+    "updatedAt": 1790405599558,
+    "organizeStatus": "薪资下限"
+  },
+  {
+    "job": {
+      "id": "218d63cf3a3d5a820nN-2Nm5E1NX",
+      "title": "AI工程师（创作 Skills 方向）",
+      "company": "诸云科技",
+      "companyId": "7f7c70ca9d3492d61nd_3t64EVY~",
+      "location": "厦门",
+      "salary": "15-30K",
+      "tags": [
+        "3-5年",
+        "本科"
+      ],
+      "statusIconAlt": ""
+    },
+    "searchCity": "厦门",
+    "searchPositionId": "130121",
+    "salaryId": "406",
+    "searchDistrictId": "101230200",
+    "_configName": "厦门406-260925",
+    "_keyword": "数据标注_AI训练师",
+    "queryIndex": 0,
+    "salaryBelowMin": true,
+    "updatedAt": 1790405599781,
+    "organizeStatus": "薪资下限"
+  },
+  {
+    "job": {
+      "id": "2e6c830ac8d0a5dd0nN_3N25F1VX",
+      "title": "AI基础数据工程师",
+      "company": "海辰储能",
+      "companyId": "d71c466bc0ac18611XZ809q5EFE~",
+      "location": "厦门",
+      "salary": "15-30K",
+      "tags": [
+        "1-3年",
+        "硕士"
+      ],
+      "statusIconAlt": ""
+    },
+    "searchCity": "厦门",
+    "searchPositionId": "130121",
+    "salaryId": "406",
+    "searchDistrictId": "101230200",
+    "_configName": "厦门406-260925",
+    "_keyword": "数据标注_AI训练师",
+    "queryIndex": 0,
+    "salaryBelowMin": true,
+    "updatedAt": 1790405600231,
+    "organizeStatus": "薪资下限"
+  },
+  {
+    "job": {
+      "id": "6233966835054b510nN52tq9F1ZZ",
+      "title": "AI数据评测专家",
+      "company": "Yealink 亿联网络",
+      "companyId": "83657a6a2609200a03N82dm0EFs~",
+      "location": "厦门·湖里区·禾山",
+      "salary": "16-25K·16薪",
+      "tags": [
+        "3-5年",
+        "本科"
+      ],
+      "statusIconAlt": ""
+    },
+    "searchCity": "厦门",
+    "searchPositionId": "130121",
+    "salaryId": "406",
+    "searchDistrictId": "101230200",
+    "_configName": "厦门406-260925",
+    "_keyword": "数据标注_AI训练师",
+    "queryIndex": 0,
+    "salaryBelowMin": true,
+    "updatedAt": 1790405600295,
+    "organizeStatus": "薪资下限"
+  },
+  {
+    "job": {
+      "id": "73002301fad6d26f0nN53Nq1F1ZX",
+      "title": "AI平台负责人",
+      "company": "一阳生集团",
+      "companyId": "fdf7e2e86800fa581XR43Ni5Fw~~",
+      "location": "厦门·同安区·祥平",
+      "salary": "20-30K·13薪",
+      "tags": [
+        "3-5年",
+        "硕士"
+      ],
+      "statusIconAlt": ""
+    },
+    "searchCity": "厦门",
+    "searchPositionId": "130121",
+    "salaryId": "406",
+    "searchDistrictId": "101230200",
+    "_configName": "厦门406-260925",
+    "_keyword": "数据标注_AI训练师",
+    "queryIndex": 0,
+    "salaryBelowMin": true,
+    "updatedAt": 1790405600313,
+    "organizeStatus": "薪资下限"
+  },
+  {
+    "job": {
+      "id": "8ed87ce353a777e70nd53dS4ElFR",
+      "title": "医疗 OPC 总经理（心电数据）",
+      "company": "数源数据",
+      "companyId": "9a05055502129db71Hx62di-FFs~",
+      "location": "厦门·思明区·莲前",
+      "salary": "30-50K",
+      "tags": [
+        "5-10年",
+        "本科"
+      ],
+      "statusIconAlt": ""
+    },
+    "searchCity": "厦门",
+    "searchPositionId": "130121",
+    "salaryId": "406",
+    "searchDistrictId": "101230200",
+    "_configName": "厦门406-260925",
+    "_keyword": "数据标注_AI训练师",
+    "queryIndex": 0,
+    "salaryBelowMin": true,
+    "updatedAt": 1790405600320,
+    "organizeStatus": "薪资下限"
+  }
+]
